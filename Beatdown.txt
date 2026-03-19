@@ -1,29 +1,44 @@
-algo bass multi :
-comp : Compressor ON
-select comp sustain 40 attack 70
-Enh freq 0, enh level 30, level 100
+COMPRESSOR ON
+  Sustain: 40    → Sustain court, attaque percussive et punchy
+  Attack: 70     → Attaque lente, laisse passer le transitoire (drop heavy)
+  Enh Freq: 0   → Pas d'enhancement fréquentiel
+  Enh Level: 30 → Boost harmoniques modéré (plus de grain)
+  Level: 100     → Volume sortie compresseur au max
 
-oct : Octave ON
-oct level 90, dir level 45
+OCTAVE ON
+  Oct Level: 90  → Sub très présent, son lourd et massif
+  Dir Level: 45  → Signal direct réduit, l'octave domine
 
-dist: DISTORTION ON
-type bass OD, drive 50
-bass +15, treble -5, fx level 20
-dir level 100
+DISTORTION ON
+  Type: Bass OD  → Overdrive saturé style basse
+  Drive: 50      → Saturation poussée, son agressif (beatdown)
+  Bass: +15      → Boost basses important, son lourd et dense
+  Treble: -5     → Légère coupe aigus, évite l'agressivité excessive
+  Fx Level: 20   → Distorsion en soutien sans écraser le sub
+  Dir Level: 100 → Mix 100% effet+signal
 
-4BANDEQ ON
-select 4band eq
-low ew +4db, higheq -2db, level+12db
-lo-md F 400hz, low-mid q 1.0, low mid eq -4db
-hi-md f 2.5khz, hi mid q 2.0, hi-mid eq +4db
+4BAND EQ ON
+  Low EQ: +4dB    → Boost basses modéré (le sub de l'octave fait le reste)
+  High EQ: -2dB   → Légère coupe aigus, son sombre et lourd
+  Level: +12dB    → Boost fort du niveau global (compensation du mix)
+  Lo-mid F: 400Hz → Fréquence médiums-bas plus grave (corps)
+  Low-mid Q: 1.0  → Largeur du fondu
+  Low-mid EQ: -4dB → Coupe médiums-bas (évite le mud dans le bas-médium)
+  Hi-mid F: 2.5kHz → Fréquence des médiums hauts
+  Hi-mid Q: 2.0   → Largeur du fondu
+  Hi-mid EQ: +4dB → Boost présence pour couper dans le mix
 
-preamp/sp sim off
+PREAMP/SP.SIM OFF
 
-NS suppressor ON
-treshold 100, release 13
+NOISE SUPPRESSOR ON
+  Threshold: 100 → Coupure maximale des bruits parasites
+  Release: 13    → Relâche rapide
 
-delay off
-chorus off
-reverb off
+DELAY OFF
+CHORUS OFF
+REVERB OFF
 
-master level 100, bpm 120 foot level 100
+MASTER
+  Master Level: 100 → Volume max (patch très dynamique, compense la perte)
+  BPM: 120          → Tempo référence
+  Foot Level: 100   → Volume footswitch

@@ -1,50 +1,50 @@
 COMPRESSOR ON
-  Sustain: 60
-  Attack: 40
-  Enh Freq: 0
-  Enh Level: 10
-  Level: 90
+  Sustain: 60    → Sustain modéré, moins serré que Darkglass
+  Attack: 40     → Attaque moyenne, laisse passer le transitoire
+  Enh Freq: 0   → Pas d'enhancement fréquentiel
+  Enh Level: 10 → Léger boost des harmoniques
+  Level: 90      → Volume sortie compresseur
 
 OCTAVE ON
-  Oct Level: 25
-  Dir Level: 100
+  Oct Level: 25  → Légère couleur sub, effet subtil et groovy
+  Dir Level: 100 → 100% du signal direct passe
 
 DISTORTION ON
-  Type: Bass OD
-  Drive: 2
-  Bass: 0
-  Treble: +10
-  Fx Level: 20
-  Dir Level: 100
+  Type: Bass OD  → Overdrive léger base basse
+  Drive: 2       → Quasi-propre, juste un soupçon de saturation
+  Bass: 0        → Basses neutres, pas de boost
+  Treble: +10    → Brillance et définition
+  Fx Level: 20   → Effet discret, en soutien du son propre
+  Dir Level: 100 → Mix 100% effet+signal
 
 4BAND EQ ON
-  Low EQ: +6dB
-  High EQ: +10dB
-  Level: +2dB
-  Lo-mid F: 630Hz
-  Low-mid Q: 1.0
-  Low-mid EQ: -2dB
-  Hi-mid F: 2.5kHz
-  Hi-mid Q: 2.0
-  Hi-mid EQ: +4dB
+  Low EQ: +6dB    → Boost basses nettes
+  High EQ: +10dB  → Aigus brillants et présents
+  Level: +2dB     → Léger boost global de l'EQ
+  Lo-mid F: 630Hz → Fréquence des médiums-bas
+  Low-mid Q: 1.0  → Largeur du fondu
+  Low-mid EQ: -2dB → Légère coupe médiums-bas (clarté)
+  Hi-mid F: 2.5kHz → Fréquence des médiums hauts
+  Hi-mid Q: 2.0   → Largeur du fondu
+  Hi-mid EQ: +4dB → Boost présence et attaque (tranche dans le mix)
 
 PREAMP/SP.SIM OFF
 
 NOISE SUPPRESSOR ON
-  Threshold: 100
-  Release: 13
+  Threshold: 100 → Coupure maximale des bruits parasites
+  Release: 13    → Relâche rapide
 
 CHORUS ON
-  Mode: Mono
-  Rate: 10
-  Depth: 30
-  Predelay: 20.5ms
-  Low Cut: 340Hz
-  Fx Level: 18
+  Mode: Mono       → Chorus mono (compatible basse en scène)
+  Rate: 10         → Modulation lente, effet subtil
+  Depth: 30        → Profondeur modérée, son légèrement élargi
+  Predelay: 20.5ms → Légère temporisation avant le chorus
+  Low Cut: 340Hz   → Coupe les basses du chorus (garde la fondamentale propre)
+  Fx Level: 18     → Chorus discret, juste une couleur
 
 REVERB OFF
 
 MASTER
-  Master Level: 90
-  BPM: 120
-  Foot Level: 100
+  Master Level: 90  → Volume général élevé
+  BPM: 120          → Tempo référence
+  Foot Level: 100   → Volume footswitch
