@@ -1,0 +1,50 @@
+COMPRESSOR ON
+  Sustain: 60
+  Attack: 40
+  Enh Freq: 0
+  Enh Level: 10
+  Level: 90
+
+OCTAVE ON
+  Oct Level: 25
+  Dir Level: 100
+
+DISTORTION ON
+  Type: Bass OD
+  Drive: 2
+  Bass: 0
+  Treble: +10
+  Fx Level: 20
+  Dir Level: 100
+
+4BAND EQ ON
+  Low EQ: +6dB
+  High EQ: +10dB
+  Level: +2dB
+  Lo-mid F: 630Hz
+  Low-mid Q: 1.0
+  Low-mid EQ: -2dB
+  Hi-mid F: 2.5kHz
+  Hi-mid Q: 2.0
+  Hi-mid EQ: +4dB
+
+PREAMP/SP.SIM OFF
+
+NOISE SUPPRESSOR ON
+  Threshold: 100
+  Release: 13
+
+CHORUS ON
+  Mode: Mono
+  Rate: 10
+  Depth: 30
+  Predelay: 20.5ms
+  Low Cut: 340Hz
+  Fx Level: 18
+
+REVERB OFF
+
+MASTER
+  Master Level: 90
+  BPM: 120
+  Foot Level: 100

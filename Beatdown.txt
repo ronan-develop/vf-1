@@ -1,0 +1,29 @@
+algo bass multi :
+comp : Compressor ON
+select comp sustain 40 attack 70
+Enh freq 0, enh level 30, level 100
+
+oct : Octave ON
+oct level 90, dir level 45
+
+dist: DISTORTION ON
+type bass OD, drive 50
+bass +15, treble -5, fx level 20
+dir level 100
+
+4BANDEQ ON
+select 4band eq
+low ew +4db, higheq -2db, level+12db
+lo-md F 400hz, low-mid q 1.0, low mid eq -4db
+hi-md f 2.5khz, hi mid q 2.0, hi-mid eq +4db
+
+preamp/sp sim off
+
+NS suppressor ON
+treshold 100, release 13
+
+delay off
+chorus off
+reverb off
+
+master level 100, bpm 120 foot level 100
