@@ -5,7 +5,9 @@
 **Setup Final:** VF-1 + Big Muff Electro Harmonix 9V
 
 **Band Context:** Raised Fist / Breach / Refused / Days Spent 
+
 **Bassiste:** jeu  au médiator/pick
+
 **Bass:** Ibanez SR 905 (5 cordes, tuning B-D-A-D-G)
 
 ---
