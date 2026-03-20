@@ -113,7 +113,7 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 ### 🎸 UA2: SUBWOOFER - BEATDOWN
 
 - **Fonction:** Heavy breakdown, lourd et massif (contexte hardcore)
-- **Drive:** 50 (valeur originale, inchangée)
+- **Drive:** 40 (valeur originale, inchangée)
 - **Key Settings:** Oct Level: 90, Sustain compresseur: 40
 - ✅ **Note:** VF-1 travaille sur signal propre, Big Muff ajoute le grain final
 - ⚙️ **Si sonne trop fort en live:** ajuster Master 100 → 95-98 (cf. CORRECTION-LIVE-BASSKICK.txt)
@@ -131,7 +131,7 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 | Dir Level                | 45       | 45      | Stable                  |
 | **DISTORTION (Bass OD)** |          |         |                         |
 | Type                     | Bass OD  | Bass OD | Stable                  |
-| Drive                    | 50       | 45      | -10% 10W, agressif      |
+| Drive                    | 40       | 36      | -10% 10W, agressif      |
 | Bass                     | +15      | +15     | Stable                  |
 | Treble                   | -5       | -5      | Stable                  |
 | Fx Level                 | 20       | 20      | Stable                  |
