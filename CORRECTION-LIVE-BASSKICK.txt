@@ -1,0 +1,209 @@
+═══════════════════════════════════════════════════════════════════════════════
+CORRECTION LIVE BASSKICK - Guide Test Salle 515W
+═══════════════════════════════════════════════════════════════════════════════
+
+Tu as affiné UA1-UA5 sur Basskick 515W (salle/répète).
+En situation réelle, si tu perçois une DIFFÉRENCE SONORE au switch entre presets,
+voici sur quel PARAMÈTRE JOUER pour compenser.
+
+Référence = Dangle (UA1) = son basique/clair
+
+═══════════════════════════════════════════════════════════════════════════════
+AVANT LE TEST:
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Télécharge tes notes d'affinage 10W (ex: "UA7 Beatdown: Octave +5, Drive +2")
+
+2. Charge UA1-UA5 dans VF-1 (réglages Basskick originaux = README section 3)
+
+3. Connecte tout (Ibanez → VF-1 → Big Muff → Basskick 515W + Cabinet)
+
+4. Fais jouer Dangle d'abord = établis la référence sonore Basskick
+
+5. Switch vers Beatdown, Darkglass, Breach, Punchycore
+   Note IMMÉDIATEMENT:
+   - "Trop fort/faible?" → différence Master perceptible?
+   - "Manque de coupure guitare?" → Hi-mid (Breach) insuffisant?
+   - "Manque de punch?" → Lo-mid (Punchycore) insuffisant?
+   - "Son étouffé/boueux?" → EQ ou Octave problématique?
+
+═══════════════════════════════════════════════════════════════════════════════
+BEATDOWN (UA2) vs DANGLE (UA1) - SUR BASSKICK
+═══════════════════════════════════════════════════════════════════════════════
+
+DIFFÉRENCE ATTENDUE: Beatdown = plus lourd, Master 100 (vs 90 Dangle)
+
+SI SONNE TROP FORT / SAUT VOLUME PERCEPTIBLE:
+  → Master: 100 → 95-98 (test réduction légère)
+  → Note: "Beatdown Master → 95" pour suite
+
+SI SOUS PAS ASSEZ LOURD / SON TROP SEC:
+  → Octave Oct Level: 90 (vérifier, déjà haut) → test 95
+  → SI toujours sec: Drive 50 ne change pas, check Compressor Enh Level 30 → 35
+
+SI MANQUE D'AGRESSIVITÉ / PAS ASSEZ MORDANT:
+  → Distortion Fx Level: 20 → 22-25 (plus de présence saturation)
+  → Drive: 50 reste correct
+
+SI SON BOUEUX / CONFLIT MID-BASS:
+  → 4BAND EQ Low-mid: -4dB → -5-6dB (creuse plus les problèmes mids-bas)
+
+PARAMÈTRE CLÉS À NE PAS TOUCHER:
+  ✓ Drive: 50 (agressivité Beatdown)
+  ✓ Compressor Sustain: 40 (punch court)
+
+═══════════════════════════════════════════════════════════════════════════════
+DARKGLASS (UA3) vs DANGLE (UA1) - SUR BASSKICK
+═══════════════════════════════════════════════════════════════════════════════
+
+DIFFÉRENCE ATTENDUE: Darkglass = technique/transparent, Master 80 (vs 90 Dangle)
+
+SI SONNE PLUS FAIBLE QUE DANGLE:
+  → Master: 80 (vérifier, déjà ajusté) → test augmenter 82-85
+  → Note: "Darkglass Master → 85" si compensation nécessaire
+
+SI PERTE CLARTÉ / SON ÉTOUFFÉ vs DANGLE:
+  → Preamp Middle: -5dB → -8dB (coupe plus mids-haut, laisse aigus passer)
+  → High EQ: +8dB (vérifier déjà à +8dB, correct)
+
+SI MANQUE DE PRÉSENCE / COUPURE INCISIVE:
+  → Preamp Volume: 90 → 95 (boost léger coloration Ampeg)
+  → Preamp Dir Level: 50 → 55 (mélange plus de préamp)
+
+SI TROP GRAIN / TROP AGRESSIF:
+  → Preamp Gain: HIGH → vérifier actuellement
+  → Si vraiment trop: réduire légèrement Drive 18 → 16
+
+PARAMÈTRES CLÉS À NE PAS TOUCHER:
+  ✓ Octave: OFF (clarté pure)
+  ✓ Preamp Type: Ampeg (couleur fixture)
+
+═══════════════════════════════════════════════════════════════════════════════
+BREACH (UA4) vs DANGLE (UA1) - SUR BASSKICK
+═══════════════════════════════════════════════════════════════════════════════
+
+DIFFÉRENCE ATTENDUE: Breach = hardcore mélodique, Hi-mid +5dB, Master 88
+
+SI SONNE LÉGÈREMENT MOINS FORT:
+  → Master: 88 → 90-92 (test compensation légère)
+  → Note: "Breach Master → 90" si nécessaire
+
+SI MANQUE DE COUPURE GUITARE / PRÉSENCE INSUFFISANTE:
+  → Hi-mid EQ: +5dB (paramètre CLÉ) → [+6-7dB] test priorité absolue
+    ⭐ C'EST LA SIGNATURE = en-dessous de +4dB, c'est plus Breach
+  → High EQ: +6dB → +7dB (complément aigus)
+  → Note: "Breach Hi-mid → +6dB" si boost nécessaire
+
+SI TROP AGRESSIF / PIERCING / MICROPHONIE GUITARE:
+  → Hi-mid EQ: +5dB → test réduire à +4dB (minimal)
+  → Compressor Attack: 28 → 32 (moins de transitive frappée)
+
+SI PUNCH MANQUANT / NOTES PAS ASSEZ DÉFINIES:
+  → Drive: 15 reste correct
+  → Compressor Attack: 28 → 22 (frappe plus vif)
+
+PARAMÈTRE IMMUABLE:
+  ✓ Hi-mid EQ: MINIMUM +4dB (signature du preset = coupure guitare)
+
+═══════════════════════════════════════════════════════════════════════════════
+PUNCHYCORE (UA5) vs DANGLE (UA1) - SUR BASSKICK
+═══════════════════════════════════════════════════════════════════════════════
+
+DIFFÉRENCE ATTENDUE: Punchycore = percussif midrange, Lo-mid +6dB, Master 92
+
+SI SONNE PLUS AGRESSIF QUE DANGLE / PUNCH TROP:
+  → Master: 92 → 88-90 (baisse légère pour cohérence)
+  → Note: "Punchycore Master → 88" si réduction nécessaire
+
+SI MANQUE DE PUNCH / MIDRANGE PLAT:
+  → Lo-mid EQ: +6dB (paramètre CLÉ) → [+7-8dB] test priorité absolue
+    ⭐ C'EST LA SIGNATURE = en-dessous de +5dB, perte signature
+  → 4BAND EQ Level: +8dB → test +9dB (boost punch global)
+  → Note: "Punchycore Lo-mid → +7dB" si boost nécessaire
+
+SI TROP AGRESSIF / MIDRANGE ÉCRASE GUITARE:
+  → Lo-mid EQ: +6dB → test réduire +4-5dB (minimal)
+  → 4BAND EQ Level: +8dB → +7dB
+
+SI PERTE CLARTÉ / SON TROP SOMBRE:
+  → High EQ: +4dB → +5-6dB (brille plus)
+  → Treble (Distortion): +8 → +9-10 (croustillant)
+
+PARAMÈTRE IMMUABLE:
+  ✓ Lo-mid EQ: MINIMUM +5dB (signature punch midrange)
+
+═══════════════════════════════════════════════════════════════════════════════
+WORKFLOW TEST BASSKICK RAPIDE
+═══════════════════════════════════════════════════════════════════════════════
+
+ÉTAPE 1 - ÉTABLIS RÉFÉRENCE (5 min):
+  → Joue Dangle seul, écoute sans regarder
+  → Note impression générale (volume, clarté, brillance)
+
+ÉTAPE 2 - COMPARE CHAQUE PRESET (10 min):
+  → Switch Dangle → Beatdown
+    Observe: "Plus lourd? Plus fort? Son serré ou mou?"
+  → Switch Dangle → Darkglass
+    Observe: "Moins fort? Plus clair? Trop étouffé?"
+  → Switch Dangle → Breach
+    Observe: "Coupure guitare OK? Présence suffisante?"
+  → Switch Dangle → Punchycore
+    Observe: "Punch midi présent? Agressif ou plat?"
+
+ÉTAPE 3 - IDENTIFIE PRIORITÉS (5 min):
+  → Note rapidement ce qui manque (ne touche pas encore)
+  → Exemple: "Beatdown: Master légèrement bas", "Darkglass: OK", "Breach: Hi-mid manque", "Punchycore: OK"
+
+ÉTAPE 4 - PREMIÈRE CORRECTION (10 min):
+  → Ajuste UNIQUEMENT le paramètre prioritaire per preset
+  → Re-test après chaque ajustement
+  → Exemple: "Breach Hi-mid +5 → +6" puis re-test
+
+ÉTAPE 5 - REFINANCE (optionnel):
+  → Si décalages restent, ajuste secondaire
+  → Finalise notes pour prochaine session/concert
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLE RÉEL DE TEST
+═══════════════════════════════════════════════════════════════════════════════
+
+Scénario: Premier test Basskick 515W
+
+Étape 1 - Référence:
+  Joue Dangle 30 secondes → "Ok, voilà le son de base Basskick"
+
+Étape 2 - Comparaisons:
+  Dangle → Beatdown: "Waw plus lourd, mais peut-être un poil trop fort"
+  Dangle → Darkglass: "OK technique, transparence là, bon"
+  Dangle → Breach: "Meh, présence moins coupante, manque les aigus"
+  Dangle → Punchycore: "OK punch, percussif c'est bon"
+
+Étape 3 - Priorités notées:
+  - Beatdown: Master légèrement haut (100 → 95?)
+  - Darkglass: OK, rien
+  - Breach: Hi-mid insuffisant (+5 → +6)
+  - Punchycore: OK
+
+Étape 4 - Corrections:
+  Beatdown: Master 100 → 95, re-test → "Better, plus équilibré"
+  Breach: Hi-mid +5 → +6, re-test → "Oui! Coupure guitare là maintenant"
+  Valide: Beatdown Master 95, Breach Hi-mid +6
+
+Fin résultat:
+  Notes finale: "Basskick test OK. Changements: Beatdown Master -5, Breach Hi-mid +1"
+
+═══════════════════════════════════════════════════════════════════════════════
+SI GROS DÉCALAGE = REVÉRIFIEZ CONNEXIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+Si différence ÉNORME entre Basskick et 10W:
+  □ Input VF-1 toujours -20dB? (actif Ibanez)
+  □ Big Muff Volume 14h? (set & forget)
+  □ Big Muff AFTER VF-1 (INPUT → EFFECT OUT)?
+  □ Câbles audio jack serrées partout?
+  □ VF-1 Output MONO → Big Muff INPUT?
+  □ Basskick Input level correct?
+
+═══════════════════════════════════════════════════════════════════════════════
+BON TEST BASSKICK ! 🎸
+═══════════════════════════════════════════════════════════════════════════════

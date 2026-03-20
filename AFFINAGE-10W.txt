@@ -1,0 +1,176 @@
+═══════════════════════════════════════════════════════════════════════════════
+AFFINAGE 10 WATTS - Adaptations Complètes pour Combo 10W (Maison)
+═══════════════════════════════════════════════════════════════════════════════
+
+Tu es à la maison avec un petit ampli 10W (pas Basskick 515W).
+Ce document = RÉDUCTIONS SYSTÉMATIQUES des réglages UA1-UA5 pour 10W.
+
+Tes références = fichiers UA6-UA10 (déjà pré-calculés).
+C'est là pour affiner les son à la maison avant test salle Basskick.
+
+═══════════════════════════════════════════════════════════════════════════════
+UA6: DANGLE 10W (Référence: UA1 Basskick)
+═══════════════════════════════════════════════════════════════════════════════
+
+RÉDUCTIONS vs BASSKICK (UA1: Master 90):
+  Master: 90 → 75       (-17%)
+  Octave Oct Level: 25 → 15  (-40%, petit ampli = pas de sub lourd)
+  Chorus Fx Level: 18 → 16   (-11%)
+  Compressor Level: 90 → 85  (-5%, moins de soutien harmoniques)
+
+PARAMÈTRES STABLES (identiques UA1):
+  ✓ Drive: 0 (Big Muff seule saturation)
+  ✓ Chorus: ON (Mode Mono, Rate 10, Depth 30)
+
+NOTES D'AFFINAGE À LA MAISON:
+  - Si perte général de volume/présence → 4BAND EQ Level +1-2dB (au lieu de +2dB)
+  - Si chorus manque de largeur → Chorus Depth +5-10 points (30 → 35-40)
+  - Si manque punch attaque → Compressor Attack 40 → 35
+
+═══════════════════════════════════════════════════════════════════════════════
+UA7: BEATDOWN 10W (Référence: UA2 Basskick)
+═══════════════════════════════════════════════════════════════════════════════
+
+RÉDUCTIONS vs BASSKICK (UA2: Master 100):
+  Master: 100 → 80      (-20%, réduction la plus forte)
+  Drive: 50 → 45        (-10%, petit ampli = saturation rapide)
+  Octave Oct Level: 90 → 60  (-33%, sub lourd impossible à 10W)
+  4BAND EQ Low: +4dB → +3dB  (-1dB)
+  4BAND EQ High: -2dB → -1dB (+1dB)
+
+PARAMÈTRES STABLES (identiques UA2):
+  ✓ Compressor Sustain: 40 (court, bon pour le punch)
+  ✓ Distortion Bass: +15
+
+NOTES D'AFFINAGE À LA MAISON:
+  - Si sub pas assez présent → Octave Oct Level 60 → 65-70 graduel
+  - Si son trop crisp/sec → Treble (Distortion) réduire légèrement
+  - Si mid-bass boueux → 4BAND EQ Low-mid -4dB → -5dB
+
+═══════════════════════════════════════════════════════════════════════════════
+UA8: DARKGLASS 10W (Référence: UA3 Basskick)
+═══════════════════════════════════════════════════════════════════════════════
+
+RÉDUCTIONS vs BASSKICK (UA3: Master 80):
+  Master: 80 → 75       (-6%, minimal, préamp absorbe déjà perte)
+  Drive: 18 → 14        (-22%, maximal pour préamp = perte de transparence)
+  Preamp Volume: 90 → 80  (-11%)
+  Preamp Master: 70 → 65  (-7%)
+  Preamp Dir Level: 50 → 45  (-10%)
+  4BAND EQ Low: +6dB → +5dB  (-1dB)
+  4BAND EQ High: +8dB → +6dB  (-2dB)
+
+PARAMÈTRES STABLES (identiques UA3):
+  ✓ Octave: OFF (clarté pure)
+  ✓ Preamp Type: Ampeg (couleur fixture)
+  ✓ Preamp Middle: -5dB (coupe mids pour guitare)
+
+NOTES D'AFFINAGE À LA MAISON:
+  - Si son trop étouffé → Preamp Volume 80 → 85 ou Drive 14 → 16
+  - Si manque coupure guitare → Preamp Middle -5dB → -8dB
+  - Si brillance insuffisante → High EQ +6dB → +8dB
+
+═══════════════════════════════════════════════════════════════════════════════
+UA9: BREACH 10W (Référence: UA4 Basskick)
+═══════════════════════════════════════════════════════════════════════════════
+
+RÉDUCTIONS vs BASSKICK (UA4: Master 88):
+  Master: 88 → 82       (-7%, léger)
+  Drive: 15 → 12        (-20%)
+  Octave Oct Level: 5 → 3   (-40%, très subtil = invisible à 10W)
+
+⭐ PARAMÈTRES IMMUABLES (SIGNATURE DU PRESET):
+  ✓ Hi-mid EQ: +5dB (JAMAIS en-dessous +4dB, coupure guitare clé)
+  ✓ High EQ: +6dB (renforce présence)
+  ✓ Compressor Attack: 28 (rapide, laisse transitive)
+
+NOTES D'AFFINAGE À LA MAISON:
+  - Si manque présence/coupure → Hi-mid EQ +5dB → +6dB priorité absolue
+  - Si trop agressif/piercing → Hi-mid réduire légèrement à +4dB
+  - Si punch insuffisant → Compressor Attack 28 → 22 (plus vif)
+
+═══════════════════════════════════════════════════════════════════════════════
+UA10: PUNCHYCORE 10W (Référence: UA5 Basskick)
+═══════════════════════════════════════════════════════════════════════════════
+
+RÉDUCTIONS vs BASSKICK (UA5: Master 92):
+  Master: 92 → 85       (-8%)
+  Drive: 6 → 4          (-33%, réduction maximale = preset très percussif)
+  Octave Oct Level: 8 → 5   (-38%, sub imperceptible à 10W)
+
+⭐ PARAMÈTRES IMMUABLES (SIGNATURE DU PRESET):
+  ✓ Lo-mid EQ: +6dB (JAMAIS en-dessous +5dB, punch midrange clé)
+  ✓ 4BAND EQ Level: +8dB (punch global)
+  ✓ Compressor Attack: 18 (très rapide, transparence)
+
+NOTES D'AFFINAGE À LA MAISON:
+  - Si manque punch → Lo-mid EQ +6dB → +7dB priorité absolue
+  - Si trop agressif/fatiguant → Lo-mid réduire à +4-5dB
+  - Si son trop sec → Drive 4 → 5-6 (ajoute texture)
+
+═══════════════════════════════════════════════════════════════════════════════
+TABLEAU RÉSUMÉ - 10W vs BASSKICK
+═══════════════════════════════════════════════════════════════════════════════
+
+| Preset    | Master (10W) | Drive (10W) | Réduction Drive | Octave (10W) | Notes |
+|-----------|--------------|-------------|-----------------|--------------|-------|
+| Dangle    | 75 (-15)     | 0 (=)       | 0%              | 15 (-10)     | Chorus ON |
+| Beatdown  | 80 (-20)     | 45 (-5)     | -10%            | 60 (-30)     | Sub lourd |
+| Darkglass | 75 (-5)      | 14 (-4)     | -22%            | OFF (=)      | Preamp ON |
+| Breach    | 82 (-6)      | 12 (-3)     | -20%            | 3 (-2)       | Hi-mid +5dB |
+| Punchycore| 85 (-7)      | 4 (-2)      | -33%            | 5 (-3)       | Lo-mid +6dB |
+
+CONSTATS:
+  ✓ Master: -6% à -20% (petit ampli = moins de headroom)
+  ✓ Drive: réductions non-linéaires (Punchycore -33% = percussif, Beatdown -10% = agressif)
+  ✓ Octave: -30-40% universel (petit ampli = pas de sub lourd)
+  ✓ Signature EQs (Hi-mid Breach, Lo-mid Punchycore): PRÉSERVÉS identiquement
+
+═══════════════════════════════════════════════════════════════════════════════
+WORKFLOW AFFINAGE À LA MAISON
+═══════════════════════════════════════════════════════════════════════════════
+
+1. CHARGE UA6-UA10 dans VF-1 (fichiers .txt fournis)
+
+2. ÉCOUTE CHAQUE PRESET dans l'ordre:
+   - Dangle 10W = contrôle (référence soft)
+   - Beatdown 10W = contrôle sub lourd + saturation
+   - Darkglass 10W = contrôle transparence + Preamp
+   - Breach 10W = contrôle présence + coupure guitare
+   - Punchycore 10W = contrôle punch midrange
+
+3. IDENTIFIE RAPIDEMENT le problème:
+   - "Trop faible" → 4BAND EQ Level −1-2dB ou Master +3-5 pour test
+   - "Pas assez agressif" → Drive ±2-3 ou Distortion Fx Level
+   - "Manque présence/coupure" → Hi-mid (Breach) ou Lo-mid (Punchycore)
+   - "Trop de boue" → Low-mid EQ DOWN ou Octave DOWN
+
+4. TESTE EN CONTEXTE MUSICAL:
+   - Joue une riff lourde (Beatdown)
+   - Joue une figure technique (Darkglass)
+   - Joue un break mélodique (Breach)
+   - Joue un pattern percussif (Punchycore)
+
+5. NOTE TES CHANGEMENTS:
+   Exemple: "UA7 Beatdown: Octave +5, Drive +2 = ok à la maison"
+
+6. MÉMORISE POUR BASSKICK:
+   - En salle → compare Basskick vs tes notes 10W
+   - Utilise CORRECTION-LIVE-BASSKICK.txt pour traduire
+   - Finalise réglages
+
+═══════════════════════════════════════════════════════════════════════════════
+PARAMÈTRES À NE JAMAIS TOUCHER (même en affinage)
+═══════════════════════════════════════════════════════════════════════════════
+
+✓ Big Muff: Volume 14h, Tone 13-14h, Sustain 22-23h, NORM (immutable)
+✓ VF-1 Input: -20dB (signal actif)
+✓ Drive Dangle (UA6): 0 = Big Muff seule saturation
+✓ Preamp Type (UA8): Ampeg (couleur fixture)
+✓ Octave OFF (UA8): clarté pure technique
+✓ Compressor: toujours ON
+✓ Hi-mid EQ (UA9): minimum +4dB signature
+✓ Lo-mid EQ (UA10): minimum +5dB signature
+
+═══════════════════════════════════════════════════════════════════════════════
+BON AFFINAGE 10W ! 🎸
