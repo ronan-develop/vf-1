@@ -1,0 +1,52 @@
+COMPRESSOR ON
+  Sustain: 85    → Sustain MAXIMAL, son étouffé et tenu (sludge)
+  Attack: 80     → Très lent, laisse passer l'attaque (drop impact)
+  Enh Freq: 0   → Pas d'enhancement fréquentiel
+  Enh Level: 20 → Boost modéré des harmoniques (grain dense)
+  Level: 100     → Volume sortie compresseur au max
+
+OCTAVE ON
+  Oct Level: 100 → SUB MAXIMAL domaine grave saturé
+  Dir Level: 20  → Signal direct réduit, l'octave écrase tout
+
+DISTORTION ON
+  Type: Bass OD  → Overdrive saturé style doom/sludge
+  Drive: 35      → Saturation modérée (moins que Beatdown)
+  Bass: +12      → Boost basses important
+  Treble: -8     → Coupe aigus drastique (son NOIR)
+  Fx Level: 40   → Présence du grain saturé
+  Dir Level: 100 → Mix 100% effet+signal
+
+4BAND EQ ON
+  Low EQ: +8dB    → Boost basses MAXIMUM (son lourd grave)
+  High EQ: -5dB   → Coupe aigus drastique (sludge tone)
+  Level: +15dB    → Boost très fort du niveau global
+  Lo-mid F: 250Hz → Fréquence très grave des médiums-bas
+  Low-mid Q: 0.8  → Largeur du fondu
+  Low-mid EQ: -6dB → Coupe grave/midrange (évite le mud, garde le sub clair)
+  Hi-mid F: 1.5kHz → Fréquence basse des médiums hauts
+  Hi-mid Q: 1.5   → Largeur du fondu
+  Hi-mid EQ: -4dB → Coupe médiums (son très grave)
+
+PREAMP/SP.SIM OFF
+
+NOISE SUPPRESSOR ON
+  Threshold: 90  → Coupure forte du bruit (craquements)
+  Release: 14    → Relâche rapide
+
+DELAY OFF
+CHORUS OFF
+REVERB OFF
+
+MASTER
+  Master Level: 95   → Volume très élevé (compense la saturation)
+  BPM: 120           → Tempo référence
+  Foot Level: 100    → Volume footswitch
+
+// NOTES UTILISATION
+// Preset = son DOOM/SLUDGE pur
+// Sub omniprésent, sustain collant (attente de la note suivante)
+// Parfait pour breakdowns ultra-lourds type Melvins/Eyehategod
+// Si trop agressif → réduire Distortion Drive à 25
+// Si trop mellow → augmenter Distortion Drive à 45
+// Combiner avec tempo lent (BPM 80-90) pour maximum impact sludge
