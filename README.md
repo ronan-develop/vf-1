@@ -1,4 +1,4 @@
-# VF-1 Setup - Days Spent Band Configuration
+# VF-1 Setup - Configuration
 
 ## Overview
 
