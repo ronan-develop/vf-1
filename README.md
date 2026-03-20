@@ -32,7 +32,7 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 
 ### Pedalboard
 
-- **Roland FC-200** (connecté en MIDI IN au VF-1)
+- **Roland FC-200** (MIDI OUT du FC-200 → MIDI IN du VF-1)
 
 ---
 
