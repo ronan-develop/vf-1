@@ -74,6 +74,22 @@ SI TROP GRAIN / TROP AGRESSIF:
   → Preamp Gain: HIGH → vérifier actuellement
   → Si vraiment trop: réduire légèrement Drive 18 → 16
 
+⚠️  DANGER = CONFUSION GUITARE/BASSE:
+  Darkglass peut facilement être confondu avec la guitare en live par excès mid-hauts.
+  STRATÉGIE ACTUELLE DE SÉPARATION:
+    • Hi-mid EQ: -2dB (COUPE zone guitare médiums-hauts)
+    • Middle (Preamp): -5dB (coupe médiums globalement)
+    • Low EQ: +6dB (basses nettes, guitare faible ici)
+    • High EQ: +8dB (aigus présents, mais pas zone guitare)
+    • DIR Level (Preamp): 50 (mix équilibré, préamp ne domine pas)
+  
+  SI CLASH GUITARE PERÇU EN LIVE:
+    Réduire agressivement les mid-hauts:
+      1. Hi-mid EQ: -2dB → -3dB (creuse plus la zone guitare)
+      2. Middle (Preamp): -5dB → -8dB (coupe médiums très sèche)
+      3. DIR Level (Preamp): 50 → 40 (moins de préamp color, plus signal direct)
+    Test après chaque ajustement = séparation guitare restaurée?
+
 PARAMÈTRES CLÉS À NE PAS TOUCHER:
   ✓ Octave: OFF (clarté pure)
   ✓ Preamp Type: Ampeg (couleur fixture)
