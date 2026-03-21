@@ -2,30 +2,10 @@
 CORRECTION LIVE BASSKICK - Guide Test Salle 515W
 ═══════════════════════════════════════════════════════════════════════════════
 
-Tu as affiné UA1-UA5 sur Basskick 515W (salle/répète).
-En situation réelle, si tu perçois une DIFFÉRENCE SONORE au switch entre presets,
-voici sur quel PARAMÈTRE JOUER pour compenser.
+UA1-UA5 sur Basskick 515W (salle/répète).
+Paramètres de compensation si différences perçues sur Basskick.
 
 Référence = Dangle (UA1) = son basique/clair
-
-═══════════════════════════════════════════════════════════════════════════════
-AVANT LE TEST:
-═══════════════════════════════════════════════════════════════════════════════
-
-1. Télécharge tes notes d'affinage 10W (ex: "UA7 Beatdown: Octave +5, Drive +2")
-
-2. Charge UA1-UA5 dans VF-1 (réglages Basskick originaux = README section 3)
-
-3. Connecte tout (Ibanez → VF-1 → Big Muff → Basskick 515W + Cabinet)
-
-4. Fais jouer Dangle d'abord = établis la référence sonore Basskick
-
-5. Switch vers Beatdown, Darkglass, Breach, Punchycore
-   Note IMMÉDIATEMENT:
-   - "Trop fort/faible?" → différence Master perceptible?
-   - "Manque de coupure guitare?" → Hi-mid (Breach) insuffisant?
-   - "Manque de punch?" → Lo-mid (Punchycore) insuffisant?
-   - "Son étouffé/boueux?" → EQ ou Octave problématique?
 
 ═══════════════════════════════════════════════════════════════════════════════
 BEATDOWN (UA2) vs DANGLE (UA1) - SUR BASSKICK
@@ -152,11 +132,10 @@ PARAMÈTRE IMMUABLE:
 WORKFLOW TEST BASSKICK RAPIDE
 ═══════════════════════════════════════════════════════════════════════════════
 
-ÉTAPE 1 - ÉTABLIS RÉFÉRENCE (5 min):
+ÉTAPE 1 - ÉTABLIS RÉFÉRENCE :
   → Joue Dangle seul, écoute sans regarder
-  → Note impression générale (volume, clarté, brillance)
 
-ÉTAPE 2 - COMPARE CHAQUE PRESET (10 min):
+ÉTAPE 2 - COMPARE CHAQUE PRESET :
   → Switch Dangle → Beatdown
     Observe: "Plus lourd? Plus fort? Son serré ou mou?"
   → Switch Dangle → Darkglass
@@ -167,59 +146,14 @@ WORKFLOW TEST BASSKICK RAPIDE
     Observe: "Punch midi présent? Agressif ou plat?"
 
 ÉTAPE 3 - IDENTIFIE PRIORITÉS (5 min):
-  → Note rapidement ce qui manque (ne touche pas encore)
+  → Noter rapidement ce qui manque
   → Exemple: "Beatdown: Master légèrement bas", "Darkglass: OK", "Breach: Hi-mid manque", "Punchycore: OK"
 
 ÉTAPE 4 - PREMIÈRE CORRECTION (10 min):
-  → Ajuste UNIQUEMENT le paramètre prioritaire per preset
-  → Re-test après chaque ajustement
-  → Exemple: "Breach Hi-mid +5 → +6" puis re-test
-
-ÉTAPE 5 - REFINANCE (optionnel):
-  → Si décalages restent, ajuste secondaire
-  → Finalise notes pour prochaine session/concert
+  → Ajuster UNIQUEMENT le paramètre prioritaire per preset
+  → Re-tester après chaque ajustement
+  → Exemple: "Breach Hi-mid +5 → +6" puis re-tester
 
 ═══════════════════════════════════════════════════════════════════════════════
-EXEMPLE RÉEL DE TEST
-═══════════════════════════════════════════════════════════════════════════════
-
-Scénario: Premier test Basskick 515W
-
-Étape 1 - Référence:
-  Joue Dangle 30 secondes → "Ok, voilà le son de base Basskick"
-
-Étape 2 - Comparaisons:
-  Dangle → Beatdown: "Waw plus lourd, mais peut-être un poil trop fort"
-  Dangle → Darkglass: "OK technique, transparence là, bon"
-  Dangle → Breach: "Meh, présence moins coupante, manque les aigus"
-  Dangle → Punchycore: "OK punch, percussif c'est bon"
-
-Étape 3 - Priorités notées:
-  - Beatdown: Master légèrement haut (100 → 95?)
-  - Darkglass: OK, rien
-  - Breach: Hi-mid insuffisant (+5 → +6)
-  - Punchycore: OK
-
-Étape 4 - Corrections:
-  Beatdown: Master 100 → 95, re-test → "Better, plus équilibré"
-  Breach: Hi-mid +5 → +6, re-test → "Oui! Coupure guitare là maintenant"
-  Valide: Beatdown Master 95, Breach Hi-mid +6
-
-Fin résultat:
-  Notes finale: "Basskick test OK. Changements: Beatdown Master -5, Breach Hi-mid +1"
-
-═══════════════════════════════════════════════════════════════════════════════
-SI GROS DÉCALAGE = REVÉRIFIEZ CONNEXIONS
-═══════════════════════════════════════════════════════════════════════════════
-
-Si différence ÉNORME entre Basskick et 10W:
-  □ Input VF-1 toujours -20dB? (actif Ibanez)
-  □ Big Muff Volume 14h? (set & forget)
-  □ Big Muff AFTER VF-1 (INPUT → EFFECT OUT)?
-  □ Câbles audio jack serrées partout?
-  □ VF-1 Output MONO → Big Muff INPUT?
-  □ Basskick Input level correct?
-
-═══════════════════════════════════════════════════════════════════════════════
-BON TEST BASSKICK ! 🎸
+ 🎸
 ═══════════════════════════════════════════════════════════════════════════════
