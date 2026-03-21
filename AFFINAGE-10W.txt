@@ -2,11 +2,9 @@
 AFFINAGE 10 WATTS - Adaptations Complètes pour Combo 10W (Maison)
 ═══════════════════════════════════════════════════════════════════════════════
 
-Tu es à la maison avec un petit ampli 10W (pas Basskick 515W).
-Ce document = RÉDUCTIONS SYSTÉMATIQUES des réglages UA1-UA5 pour 10W.
+RÉDUCTIONS SYSTÉMATIQUES des réglages UA1-UA5 pour 10W.
 
-Tes références = fichiers UA6-UA10 (déjà pré-calculés).
-C'est là pour affiner les son à la maison avant test salle Basskick.
+Affinage des sons à la maison avant test Basskick.
 
 ═══════════════════════════════════════════════════════════════════════════════
 UA6: DANGLE 10W (Référence: UA1 Basskick)
@@ -112,11 +110,11 @@ NOTES D'AFFINAGE À LA MAISON:
 TABLEAU RÉSUMÉ - 10W vs BASSKICK
 ═══════════════════════════════════════════════════════════════════════════════
 
-| Preset    | Master (10W) | Drive (10W) | Réduction Drive | Octave (10W) | Notes |
-|-----------|--------------|-------------|-----------------|--------------|-------|
-| Dangle    | 75 (-15)     | 0 (=)       | 0%              | 15 (-10)     | Chorus ON |
-| Beatdown  | 80 (-20)     | 45 (-5)     | -10%            | 60 (-30)     | Sub lourd |
-| Darkglass | 75 (-5)      | 14 (-4)     | -22%            | OFF (=)      | Preamp ON |
+| Preset    | Master (10W) | Drive (10W) | Réduction Drive | Octave (10W) | Notes       |
+|-----------|--------------|-------------|-----------------|--------------|-------------|
+| Dangle    | 75 (-15)     | 0 (=)       | 0%              | 15 (-10)     | Chorus ON   |
+| Beatdown  | 80 (-20)     | 45 (-5)     | -10%            | 60 (-30)     | Sub lourd   |
+| Darkglass | 75 (-5)      | 14 (-4)     | -22%            | OFF (=)      | Preamp ON   |
 | Breach    | 82 (-6)      | 12 (-3)     | -20%            | 3 (-2)       | Hi-mid +5dB |
 | Punchycore| 85 (-7)      | 4 (-2)      | -33%            | 5 (-3)       | Lo-mid +6dB |
 
@@ -126,38 +124,6 @@ CONSTATS:
   ✓ Octave: -30-40% universel (petit ampli = pas de sub lourd)
   ✓ Signature EQs (Hi-mid Breach, Lo-mid Punchycore): PRÉSERVÉS identiquement
 
-═══════════════════════════════════════════════════════════════════════════════
-WORKFLOW AFFINAGE À LA MAISON
-═══════════════════════════════════════════════════════════════════════════════
-
-1. CHARGE UA6-UA10 dans VF-1 (fichiers .txt fournis)
-
-2. ÉCOUTE CHAQUE PRESET dans l'ordre:
-   - Dangle 10W = contrôle (référence soft)
-   - Beatdown 10W = contrôle sub lourd + saturation
-   - Darkglass 10W = contrôle transparence + Preamp
-   - Breach 10W = contrôle présence + coupure guitare
-   - Punchycore 10W = contrôle punch midrange
-
-3. IDENTIFIE RAPIDEMENT le problème:
-   - "Trop faible" → 4BAND EQ Level −1-2dB ou Master +3-5 pour test
-   - "Pas assez agressif" → Drive ±2-3 ou Distortion Fx Level
-   - "Manque présence/coupure" → Hi-mid (Breach) ou Lo-mid (Punchycore)
-   - "Trop de boue" → Low-mid EQ DOWN ou Octave DOWN
-
-4. TESTE EN CONTEXTE MUSICAL:
-   - Joue une riff lourde (Beatdown)
-   - Joue une figure technique (Darkglass)
-   - Joue un break mélodique (Breach)
-   - Joue un pattern percussif (Punchycore)
-
-5. NOTE TES CHANGEMENTS:
-   Exemple: "UA7 Beatdown: Octave +5, Drive +2 = ok à la maison"
-
-6. MÉMORISE POUR BASSKICK:
-   - En salle → compare Basskick vs tes notes 10W
-   - Utilise CORRECTION-LIVE-BASSKICK.txt pour traduire
-   - Finalise réglages
 
 ═══════════════════════════════════════════════════════════════════════════════
 PARAMÈTRES À NE JAMAIS TOUCHER (même en affinage)
@@ -173,4 +139,4 @@ PARAMÈTRES À NE JAMAIS TOUCHER (même en affinage)
 ✓ Lo-mid EQ (UA10): minimum +5dB signature
 
 ═══════════════════════════════════════════════════════════════════════════════
-BON AFFINAGE 10W ! 🎸
+🎸
