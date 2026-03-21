@@ -1,26 +1,24 @@
 ================================================================================
-SETUP FINAL - VF-1 + BIG MUFF ELECTRO HARMONIX 9V
-================================================================================
-
-
-================================================================================
-1️⃣  SETUP PHYSIQUE
+1️⃣ SETUP - VF-1 + BIG MUFF ELECTRO HARMONIX 9V
 ================================================================================
 
 Ordre de chaîne:
-  Ibanez SR 905 (5 cordes, tuning B-D-A-D-G) 
+  Ibanez SR 905 (5 cordes, tuning B-D-A-D-G) dans input du Boss VF-1
     ↓
-  Big Muff Electro Harmonix USA 9V (INPUT → EFFECT OUT)
+  Boss VF-1 tête d'ampli (instrument IN L/MONO, level -20dB) dans input du Big Muff
     ↓
-  Boss VF-1 tête d'ampli (instrument IN L/MONO, level -20dB)
+  Big Muff Electro Harmonix USA 9V (INPUT → EFFECT OUT) dans Basskick INPUT
     ↓
   H&K Basskick 515 4Ω + Cabinet 300W 8Ω en série
-  
+
 Pédalier: Roland FC-200 (connecté en MIDI IN au VF-1)
 
 ================================================================================
 2️⃣  RÉGLAGES BIG MUFF (FIXES, "SET & FORGET")
 ================================================================================
+
+⚙️  Volume Potentiometer: 14h
+   → Compense signal actif Ibanez, grain optimal
 
 ⚙️  Tone Potentiometer: 13-14h
    → Brillant/clair, laisse passer les hautes fréquences
@@ -34,116 +32,87 @@ Pédalier: Roland FC-200 (connecté en MIDI IN au VF-1)
 ✅ CES RÉGLAGES NE CHANGENT JAMAIS (brancher et oublier)
 
 ================================================================================
-3️⃣  PRESETS VF-1 - VERSIONS ADAPTÉES "MUFF"
+3️⃣  PRESETS VF-1 - CONFIG ÉQUILIBRÉE
 ================================================================================
 
-Le Big Muff fournit ~50% de la saturation, donc les Drive VF-1 sont réduits.
+Architecture: Big Muff en POST-EFFECT (après VF-1). VF-1 reçoit signal propre,
+Big Muff colore le résultat final.
+
+Stratégie: drives originaux conservés + Big Muff ajoute la texture analogique.
+Seul Dangle passe Drive à 0 (Big Muff remplace entièrement la saturation).
 
 ╔═════════════════════════════════════════════════════════════════════════╗
-║ PRESET 1: BEATDOWN-MUFF                                                 ║
+║ PRESET 1: BEATDOWN                                                      ║
 ╚═════════════════════════════════════════════════════════════════════════╝
 Fonction: Heavy breakdown, lourd et massif (contexte hardcore)
-Drive: 20 (réduit de 50 dans l'original)
-Autres: Oct Level: 90, Sustain compresseur: 40 (identique à original)
-✅ VALIDATION: Drive adapté pour Big Muff saturation max
+Drive: 50 (original conservé) + Big Muff texture = agressivité contrôlée
+Autres: Oct Level: 90, Sustain compresseur: 40
+✅ VALIDATION: Drive original + Big Muff lourdeur = son massif cohérent
 
 ╔═════════════════════════════════════════════════════════════════════════╗
-║ PRESET 2: DARKGLASS-MUFF                                                ║
+║ PRESET 2: DARKGLASS                                                     ║
 ╚═════════════════════════════════════════════════════════════════════════╝
-Fonction: Transparent technique, agressif mais clair (Darkglass-like)
-Drive: 10 (réduit de 18 dans l'original)
+Fonction: Agressif mais clair (Darkglass-like)
+Drive: 18 (original conservé) + Big Muff texture = grain transparent
 Preamp/SP.SIM: ON (Ampeg coloration)
-Autres: Sustain 65, PREAMP/SP.SIM actif (identique)
-✅ VALIDATION: Preamp + Big Muff + Drive réduit = grain transparent
+Autres: Sustain 65, PREAMP/SP.SIM actif
+✅ VALIDATION: Clarté VF-1 + texture Big Muff = grain vintage transparent
 
 ╔═════════════════════════════════════════════════════════════════════════╗
-║ PRESET 3: BREACH-MUFF                                                   ║
+║ PRESET 3: BREACH                                                        ║
 ╚═════════════════════════════════════════════════════════════════════════╝
-Fonction: Hardcore mélodique agressif (Raised Fist/Breach style)
-Drive: 8 (réduit de 15 dans l'original)
+Fonction: Hardcore agressif (Breach style)
+Drive: 15 (original conservé) + Big Muff texture = présence mid
 Hi-mid EQ: +5dB (clé pour couper guitare sans concurrence)
 Sustain: 48 (percussif, clair)
-✅ VALIDATION: Drive réduit + Hi-mid préservé = clarté mid aggressive
+✅ VALIDATION: Présence mid préservée, Big Muff ajoute la couleur
 
 ╔═════════════════════════════════════════════════════════════════════════╗
-║ PRESET 4: PUNCHYCORE-MUFF                                               ║
+║ PRESET 4: PUNCHYCORE                                                    ║
 ╚═════════════════════════════════════════════════════════════════════════╝
 Fonction: Switching rapide vers clean mélodique (post-hardcore)
-Drive: 1 (réduit de 6 dans l'original)
+Drive: 6 (original conservé) + Big Muff texture = percussif
 Lo-mid EQ: +6dB (boost midrange = clé du punch)
 Sustain: 55 (modéré-court, percussif)
-✅ VALIDATION: Drive quasi-zéro + Big Muff texture = ultra percussif
+✅ VALIDATION: Percussif du VF-1 + saturation texturale Big Muff
 
 ╔═════════════════════════════════════════════════════════════════════════╗
-║ PRESET 5: DANGLE-MUFF                                                   ║
+║ PRESET 5: DANGLE                                                        ║
 ╚═════════════════════════════════════════════════════════════════════════╝
-Fonction: Groovy/subtle clean (brillance, chorus léger)
-Drive: 0 (réduit de 2 dans l'original)
+Fonction: Groovy/subtile clean (brillance, chorus léger)
+Drive: 0 (réduit de 2 → Big Muff remplace entièrement la saturation)
 Chorus: ON (Mode Mono, Rate 10, Depth 30)
 Sustain: 60 (modéré)
-✅ VALIDATION: Drive 0 + Big Muff = clair brillant, Chorus pour espacer
+✅ VALIDATION: Big Muff = seule saturation = brillant subtil sans excès
 
 ================================================================================
-4️⃣  RÉSUMÉ DES RÉDUCTIONS DRIVE
+4️⃣  RÉSUMÉ DRIVES VF-1 AVEC BIG MUFF
 ================================================================================
 
-Preset Original | Original Drive | Muff Drive | Réduction | Raison
-─────────────── | ────────────── | ────────── | ───────── | ─────────────
-Beatdown        | 50             | 20         | -60%      | Big Muff lourdeur
-darkglass       | 18             | 10         | -44%      | Big Muff saturation
-Breach          | 15             | 8          | -47%      | Big Muff gras
-Punchycore      | 6              | 1          | -83%      | Big Muff couleur
-Dangle          | 2              | 0          | -100%     | Big Muff brillance
+Preset      | Drive VF-1 | Stratégie
+──────────  | ───────── | ─────────────────────────────────────
+Beatdown    | 50        | Drive original + Big Muff texture
+Darkglass   | 18        | Drive original + Big Muff texture
+Breach      | 15        | Drive original + Big Muff texture
+Punchycore  | 6         | Drive original + Big Muff texture
+Dangle      | 0         | Big Muff remplace la saturation (réduit de 2)
 
-✅ ALL CONSISTENT: Réductions proportionnées à l'agressivité originale
+✅ ALL CONSISTENT: Big Muff colore sans déborder, Dangle seul preset ajusté
 
 ================================================================================
 5️⃣  WORKFLOW LIVE
 ================================================================================
 
-Début de song → FC-200 switche preset (ex: Beatdown-Muff)
+FC-200 switche presets en temps réel.
+  ↓
+VF-1 presets avec réglages définis
   ↓
 Big Muff déjà ON (réglages fixes 13-14h tone, 22-23h sustain)
   ↓
-VF-1 charge preset adapté
+Drive adapté + Big Muff = son final cohérent
   ↓
-Drive réduit + Big Muff = son final cohérent
-  ↓
-Pas de manipulation à l'oreille, pas de footswitch supplémentaire
+Pas de manipulation ni footswitch supplémentaire
 
 ✅ BASSISTE-FRIENDLY: Un seul footswitch (FC-200 pour presets)
-
-================================================================================
-6️⃣  NOTES POUR L'INGÉNIEUR SON
-================================================================================
-
-Configuration testée pour:
-✓ Hardcore mélodique (Raised Fist/Breach/Refused style)
-✓ Jeu au médium/pick (attaque percussive)
-✓ Tuning: Ibanez SR 905 en B standard
-✓ Amplification: H&K Basskick 515 (transparence haute fidélité)
-
-Paramètres critiques immuables:
-• Big Muff Tone: 13-14h (NE PAS CHANGER)
-• Big Muff Sustain: 22-23h (NE PAS CHANGER)
-• Big Muff Switch: NORM (NE PAS CHANGER)
-
-Flexibilité d'ajustement possible:
-• Drive chaque preset ±2-3 points selon salle (test en live)
-• Hi-mid EQ (Breach/Breach-Muff) ±2dB si trop/peu de présence
-• Noise Suppressor Threshold selon niveau amplification
-
-================================================================================
-7️⃣  CHECKLIST PRÉCHARGEMENT
-================================================================================
-
-□ Big Muff branché INPUT → EFFECT OUT
-□ Big Muff réglages: Tone 13-14h, Sustain 22-23h, NORM
-□ VF-1 Level input: -20dB (Ibanez passive)
-□ VF-1 OUTPUT L → H&K Basskick INPUT
-□ FC-200 MIDI IN connecté au VF-1
-□ 5 presets -Muff chargés en mémoire VF-1
-□ FC-200 programmé pour switcher entre presets -Muff
-□ Tous cables audio jack testés (pas de buzz/hum)
 
 ================================================================================
