@@ -98,8 +98,8 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 | Hi-mid EQ                | +4dB     | +4dB    | Présence et attaque       |
 | **PREAMP**               | OFF      | OFF     | Stable                    |
 | **NOISE SUPPRESSOR**     |          |         |                           |
-| Threshold                | 70       | 70      | Coupure agression niveaux  |
-| Release                  | 15       | 15      | Relâche rapide             |
+| Threshold                | 70       | 70      | Coupure agression niveaux |
+| Release                  | 15       | 15      | Relâche rapide            |
 | **DELAY**                | OFF      | OFF     | Stable                    |
 | **MOD (CHORUS)**         |          |         |                           |
 | Mode                     | Mono     | Mono    | Compatible scène          |
@@ -124,45 +124,45 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 - ✅ **Note:** VF-1 travaille sur signal propre, Big Muff ajoute le grain final
 - ⚙️ **Si sonne trop fort en live:** ajuster Master 100 → 95-98 (cf. CORRECTION-LIVE-BASSKICK.txt)
 
-| Paramètre                | Basskick | 10W     | Notes                   |
-|--------------------------|----------|---------|-------------------------|
-| **COMPRESSOR**           |          |         |                         |
+| Paramètre                | Basskick | 10W     | Notes                     |
+|--------------------------|----------|---------|---------------------------|
+| **COMPRESSOR**           |          |         |                           |
 | Sustain                  | 40       | 40      | Court, attaque percussive |
 | Attack                   | 70       | 70      | Lente, laisse transitoire |
-| ENH Freq                 | 0        | 0       | Stable                  |
-| ENH Level                | 30       | 25      | -17% 10W                |
-| Level                    | 100      | 95      | -5% 10W                 |
-| **OCTAVE**               |          |         |                         |
-| Oct Level                | 90       | 70      | -22% 10W, sub dominant  |
-| Dir Level                | 45       | 45      | Stable, octave dominant |
-| **DISTORTION (Bass OD)** |          |         |                         |
-| Type                     | Bass OD  | Bass OD | Stable                  |
-| Drive                    | 50       | 45      | -10% 10W, agressif      |
-| Bass                     | +15      | +15     | Boost basses lourd      |
-| Treble                   | -5       | -5      | Coupe aigus, son sombre |
-| Fx Level                 | 20       | 20      | Signal direct dominant  |
-| Dir Level                | 100      | 100     | Stable                  |
-| **4BAND EQ**             |          |         |                         |
-| Low EQ                   | +4dB     | +3dB    | -1dB 10W                |
-| High EQ                  | -2dB     | -2dB    | Coupe légère aigus      |
-| Level                    | +12dB    | +10dB   | -2dB 10W                |
-| Low-mid F                | 400 Hz   | 400 Hz  | Stable, corps grave     |
-| Low-mid Q                | 1.0      | 1.0     | Stable                  |
-| Low-mid EQ               | -4dB     | -4dB    | Coupe mud bas-médium    |
-| Hi-mid F                 | 2.5 kHz  | 2.5 kHz | Stable                  |
-| Hi-mid Q                 | 2.0      | 2.0     | Stable                  |
-| Hi-mid EQ                | +4dB     | +4dB    | Boost présence/mix      |
-| **PREAMP**               | OFF      | OFF     | Stable                  |
-| **NOISE SUPPRESSOR**     |          |         |                         |
-| Threshold                | 100      | 100     | Coupure maximale        |
-| Release                  | 13       | 13      | Relâche rapide          |
-| **DELAY**                | OFF      | OFF     | Stable                  |
-| **MOD**                  | OFF      | OFF     | Stable                  |
-| **REVERB**               | OFF      | OFF     | Stable                  |
-| **MASTER**               |          |         |                         |
-| Master Level             | 100      | 80      | -20% 10W, maximal       |
-| Foot Level               | 100      | 100     | Stable                  |
-| BPM                      | 120      | 120     | Stable                  |
+| ENH Freq                 | 0        | 0       | Stable                    |
+| ENH Level                | 30       | 25      | -17% 10W                  |
+| Level                    | 100      | 95      | -5% 10W                   |
+| **OCTAVE**               |          |         |                           |
+| Oct Level                | 90       | 70      | -22% 10W, sub dominant    |
+| Dir Level                | 45       | 45      | Stable, octave dominant   |
+| **DISTORTION (Bass OD)** |          |         |                           |
+| Type                     | Bass OD  | Bass OD | Stable                    |
+| Drive                    | 50       | 45      | -10% 10W, agressif        |
+| Bass                     | +15      | +15     | Boost basses lourd        |
+| Treble                   | -5       | -5      | Coupe aigus, son sombre   |
+| Fx Level                 | 20       | 20      | Signal direct dominant    |
+| Dir Level                | 100      | 100     | Stable                    |
+| **4BAND EQ**             |          |         |                           |
+| Low EQ                   | +4dB     | +3dB    | -1dB 10W                  |
+| High EQ                  | -2dB     | -2dB    | Coupe légère aigus        |
+| Level                    | +12dB    | +10dB   | -2dB 10W                  |
+| Low-mid F                | 400 Hz   | 400 Hz  | Stable, corps grave       |
+| Low-mid Q                | 1.0      | 1.0     | Stable                    |
+| Low-mid EQ               | -4dB     | -4dB    | Coupe mud bas-médium      |
+| Hi-mid F                 | 2.5 kHz  | 2.5 kHz | Stable                    |
+| Hi-mid Q                 | 2.0      | 2.0     | Stable                    |
+| Hi-mid EQ                | +4dB     | +4dB    | Boost présence/mix        |
+| **PREAMP**               | OFF      | OFF     | Stable                    |
+| **NOISE SUPPRESSOR**     |          |         |                           |
+| Threshold                | 100      | 100     | Coupure maximale          |
+| Release                  | 13       | 13      | Relâche rapide            |
+| **DELAY**                | OFF      | OFF     | Stable                    |
+| **MOD**                  | OFF      | OFF     | Stable                    |
+| **REVERB**               | OFF      | OFF     | Stable                    |
+| **MASTER**               |          |         |                           |
+| Master Level             | 100      | 80      | -20% 10W, maximal         |
+| Foot Level               | 100      | 100     | Stable                    |
+| BPM                      | 120      | 120     | Stable                    |
 
 **Signature sonore:** Breakdown ultra-lourd avec sub dominant. Cristallin + poids extrême.
 
@@ -201,7 +201,7 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 | Low-mid EQ               | -2dB     | -2dB    | Stable                     |
 | Hi-mid F                 | 2.5 kHz  | 2.5 kHz | Stable                     |
 | Hi-mid Q                 | 2.0      | 2.0     | Stable                     |
-| Hi-mid EQ                | -2dB     | -2dB    | COUPE médiums hauts/guitare |
+| Hi-mid EQ                | -2dB     | -2dB    | COUPE médiums hauts/guitare|
 | **PREAMP/SP.SIM**        | ON       | ON      | Stable                     |
 | Type                     | Ampeg    | Ampeg   | Couleur fixture            |
 | Volume                   | 90       | 80      | -11% 10W                   |
@@ -221,7 +221,7 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 | **DELAY**                | OFF      | OFF     | Stable                     |
 | **MOD**                  | OFF      | OFF     | Stable                     |
 | **MASTER**               |          |         |                            |
-| Master Level             | 75       | 70      | -7% 10W, modulé             |
+| Master Level             | 75       | 70      | -7% 10W, modulé            |
 | Foot Level               | 100      | 100     | Stable                     |
 | BPM                      | 120      | 120     | Stable                     |
 
@@ -235,45 +235,45 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 - ✅ **Note:** Présence mid préservée, Big Muff ajoute la couleur
 - ⚙️ **Si manque de coupure guitare en live:** Hi-mid EQ +5dB → +6-7dB (signature de Breach) (cf. CORRECTION-LIVE-BASSKICK.txt)
 
-| Paramètre                | Basskick | 10W     | Notes                  |
-|--------------------------|----------|---------|------------------------|
-| **COMPRESSOR**           |          |         |                        |
-| Sustain                  | 48       | 48      | Court, notes définies  |
-| Attack                   | 28       | 28      | Rapide, transitoire libr|
-| ENH Freq                 | 0        | 0       | Stable                 |
-| ENH Level                | 15       | 12      | -20% 10W, grain        |
-| Level                    | 92       | 88      | -4% 10W                |
-| **OCTAVE**               |          |         |                        |
-| Oct Level                | 5        | 3       | -40% 10W, minimal      |
-| Dir Level                | 100      | 100     | Stable                 |
-| **DISTORTION (Bass OD)** |          |         |                        |
-| Type                     | Bass OD  | Bass OD | Stable                 |
-| Drive                    | 15       | 12      | -20% 10W, transparent  |
-| Bass                     | +6       | +6      | Boost basses modéré   |
-| Treble                   | +6       | +6      | Brillance sans agressiv|
-| Fx Level                 | 25       | 25      | Effet discret          |
-| Dir Level                | 100      | 100     | Stable                 |
-| **4BAND EQ**             |          |         |                        |
-| Low EQ                   | +5dB     | +5dB    | Stable                 |
-| High EQ                  | +6dB     | +6dB    | Stable                 |
-| Level                    | +5dB     | +4dB    | -1dB 10W               |
-| Low-mid F                | 400 Hz   | 400 Hz  | Stable, médiums-bas   |
-| Low-mid Q                | 1.2      | 1.2     | Stable                 |
-| Low-mid EQ               | -3dB     | -3dB    | Clarté mids/bass       |
-| Hi-mid F                 | 2.5 kHz  | 2.5 kHz | Stable, CLÉ du preset  |
-| Hi-mid Q                 | 2.0      | 2.0     | Stable                 |
-| Hi-mid EQ                | +5dB     | +5dB    | ⭐ SIGNATURE coupe guitare |
-| **PREAMP**               | OFF      | OFF     | Stable                 |
-| **NOISE SUPPRESSOR**     |          |         |                        |
-| Threshold                | 75       | 75      | Coupure modérée         |
-| Release                  | 12       | 12      | Relâche rapide         |
-| **DELAY**                | OFF      | OFF     | Stable                 |
-| **MOD**                  | OFF      | OFF     | Stable                 |
-| **REVERB**               | OFF      | OFF     | Stable                 |
-| **MASTER**               |          |         |                        |
-| Master Level             | 88       | 82      | -7% 10W, modulé        |
-| Foot Level               | 100      | 100     | Stable                 |
-| BPM                      | 120      | 120     | Stable                 |
+| Paramètre                | Basskick | 10W     | Notes                        |
+|--------------------------|----------|---------|------------------------------|
+| **COMPRESSOR**           |          |         |                              |
+| Sustain                  | 48       | 48      | Court, notes définies        |
+| Attack                   | 28       | 28      | Rapide, transitoire libre    |
+| ENH Freq                 | 0        | 0       | Stable                       |
+| ENH Level                | 15       | 12      | -20% 10W, grain              |
+| Level                    | 92       | 88      | -4% 10W                      |
+| **OCTAVE**               |          |         |                              |
+| Oct Level                | 5        | 3       | -40% 10W, minimal            |
+| Dir Level                | 100      | 100     | Stable                       |
+| **DISTORTION (Bass OD)** |          |         |                              |
+| Type                     | Bass OD  | Bass OD | Stable                       |
+| Drive                    | 15       | 12      | -20% 10W, transparent        |
+| Bass                     | +6       | +6      | Boost basses modéré          |
+| Treble                   | +6       | +6      | Brillance sans agressiv      |
+| Fx Level                 | 25       | 25      | Effet discret                |
+| Dir Level                | 100      | 100     | Stable                       |
+| **4BAND EQ**             |          |         |                              |
+| Low EQ                   | +5dB     | +5dB    | Stable                       |
+| High EQ                  | +6dB     | +6dB    | Stable                       |
+| Level                    | +5dB     | +4dB    | -1dB 10W                     |
+| Low-mid F                | 400 Hz   | 400 Hz  | Stable, médiums-bas          |
+| Low-mid Q                | 1.2      | 1.2     | Stable                       |
+| Low-mid EQ               | -3dB     | -3dB    | Clarté mids/bass             |
+| Hi-mid F                 | 2.5 kHz  | 2.5 kHz | Stable, CLÉ du preset        |
+| Hi-mid Q                 | 2.0      | 2.0     | Stable                       |
+| Hi-mid EQ                | +5dB     | +5dB    | ⭐ SIGNATURE coupe guitare   |
+| **PREAMP**               | OFF      | OFF     | Stable                       |
+| **NOISE SUPPRESSOR**     |          |         |                              |
+| Threshold                | 75       | 75      | Coupure modérée              |
+| Release                  | 12       | 12      | Relâche rapide               |
+| **DELAY**                | OFF      | OFF     | Stable                       |
+| **MOD**                  | OFF      | OFF     | Stable                       |
+| **REVERB**               | OFF      | OFF     | Stable                       |
+| **MASTER**               |          |         |                              |
+| Master Level             | 88       | 82      | -7% 10W, modulé              |
+| Foot Level               | 100      | 100     | Stable                       |
+| BPM                      | 120      | 120     | Stable                       |
 
 **Signature sonore:** Agressif mélodique. Hi-mid boostée = coupe guitare proprement. Raised Fist / Refused style.
 
@@ -285,45 +285,45 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 - ✅ **Note:** Percussif du VF-1 + saturation textural Big Muff
 - ⚙️ **Si manque de punch en live:** Lo-mid EQ +6dB → +7-8dB (signature de Punchycore) (cf. CORRECTION-LIVE-BASSKICK.txt)
 
-| Paramètre                | Basskick | 10W     | Notes                  |
-|--------------------------|----------|---------|------------------------|
-| **COMPRESSOR**           |          |         |                        |
-| Sustain                  | 55       | 55      | Modéré-court, percussif |
-| Attack                   | 18       | 18      | Très rapide            |
-| ENH Freq                 | 0        | 0       | Stable                 |
-| ENH Level                | 5        | 4       | -20% 10W, minimal      |
-| Level                    | 95       | 90      | -5% 10W                |
-| **OCTAVE**               |          |         |                        |
-| Oct Level                | 8        | 5       | -38% 10W, subtil       |
-| Dir Level                | 100      | 100     | Stable                 |
-| **DISTORTION (Bass OD)** |          |         |                        |
-| Type                     | Bass OD  | Bass OD | Stable                 |
+| Paramètre                | Basskick | 10W     | Notes                    |
+|--------------------------|----------|---------|--------------------------|
+| **COMPRESSOR**           |          |         |                          |
+| Sustain                  | 55       | 55      | Modéré-court, percussif  |
+| Attack                   | 18       | 18      | Très rapide              |
+| ENH Freq                 | 0        | 0       | Stable                   |
+| ENH Level                | 5        | 4       | -20% 10W, minimal        |
+| Level                    | 95       | 90      | -5% 10W                  |
+| **OCTAVE**               |          |         |                          |
+| Oct Level                | 8        | 5       | -38% 10W, subtil         |
+| Dir Level                | 100      | 100     | Stable                   |
+| **DISTORTION (Bass OD)** |          |         |                          |
+| Type                     | Bass OD  | Bass OD | Stable                   |
 | Drive                    | 1        | 1       | Ultra percussif Big Muff |
-| Bass                     | 0        | 0       | Stable                 |
-| Treble                   | +8       | +8      | Brillance douce        |
-| Fx Level                 | 15       | 15      | Très discret           |
-| Dir Level                | 100      | 100     | Stable                 |
-| **4BAND EQ**             |          |         |                        |
-| Low EQ                   | +4dB     | +3dB    | -1dB 10W               |
-| High EQ                  | +4dB     | +3dB    | -1dB 10W               |
-| Level                    | +8dB     | +7dB    | -1dB 10W               |
-| Low-mid F                | 500 Hz   | 500 Hz  | Stable, corps          |
-| Low-mid Q                | 1.2      | 1.2     | Stable                 |
-| Low-mid EQ               | +6dB     | +6dB    | ⭐ SIGNATURE punch      |
-| Hi-mid F                 | 2 kHz    | 2 kHz   | Stable, moins agressif |
-| Hi-mid Q                 | 1.5      | 1.5     | Stable, plus doux      |
-| Hi-mid EQ                | +3dB     | +3dB    | Boost léger            |
-| **PREAMP**               | OFF      | OFF     | Stable                 |
-| **NOISE SUPPRESSOR**     |          |         |                        |
-| Threshold                | 75       | 75      | Coupure modérée         |
-| Release                  | 12       | 12      | Relâche rapide         |
-| **DELAY**                | OFF      | OFF     | Stable                 |
-| **MOD**                  | OFF      | OFF     | Stable                 |
-| **REVERB**               | OFF      | OFF     | Stable                 |
-| **MASTER**               |          |         |                        |
-| Master Level             | 92       | 85      | -8% 10W, punch direct  |
-| Foot Level               | 100      | 100     | Stable                 |
-| BPM                      | 120      | 120     | Stable                 |
+| Bass                     | 0        | 0       | Stable                   |
+| Treble                   | +8       | +8      | Brillance douce          |
+| Fx Level                 | 15       | 15      | Très discret             |
+| Dir Level                | 100      | 100     | Stable                   |
+| **4BAND EQ**             |          |         |                          |
+| Low EQ                   | +4dB     | +3dB    | -1dB 10W                 |
+| High EQ                  | +4dB     | +3dB    | -1dB 10W                 |
+| Level                    | +8dB     | +7dB    | -1dB 10W                 |
+| Low-mid F                | 500 Hz   | 500 Hz  | Stable, corps            |
+| Low-mid Q                | 1.2      | 1.2     | Stable                   |
+| Low-mid EQ               | +6dB     | +6dB    | ⭐ SIGNATURE punch       |
+| Hi-mid F                 | 2 kHz    | 2 kHz   | Stable, moins agressif   |
+| Hi-mid Q                 | 1.5      | 1.5     | Stable, plus doux        |
+| Hi-mid EQ                | +3dB     | +3dB    | Boost léger              |
+| **PREAMP**               | OFF      | OFF     | Stable                   |
+| **NOISE SUPPRESSOR**     |          |         |                          |
+| Threshold                | 75       | 75      | Coupure modérée          |
+| Release                  | 12       | 12      | Relâche rapide           |
+| **DELAY**                | OFF      | OFF     | Stable                   |
+| **MOD**                  | OFF      | OFF     | Stable                   |
+| **REVERB**               | OFF      | OFF     | Stable                   |
+| **MASTER**               |          |         |                          |
+| Master Level             | 92       | 85      | -8% 10W, punch direct    |
+| Foot Level               | 100      | 100     | Stable                   |
+| BPM                      | 120      | 120     | Stable                   |
 
 **Signature sonore:** Percussif midrange-forward. Switching rapide Beatdown/Darkglass vers clean mélodique. Post-hardcore transitions.
 
