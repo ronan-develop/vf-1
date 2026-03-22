@@ -74,6 +74,21 @@ PARAMÈTRES CLÉS À NE PAS TOUCHER:
   ✓ Octave: OFF (clarté pure)
   ✓ Preamp Type: Ampeg (couleur fixture)
 
+⚠️  SOLUTION LARSEN FEEDBACK (testé en live):
+  Darkglass peut amorcer un Larsen quand tu te tournes vers l'ampli.
+  SOLUTION APPLIQUÉE:
+    • DIR Level (Preamp): 45 (réduit 50→45, moins d'amplification préamp)
+    • Fx Level (Distortion): 40 (réduit 45→40, moins de saturation feedback)
+    • MIC Setting: 8 cm (éloigné 5→8cm, capture moins la boucle feedback)
+    • MIC Level: 65 (réduit 75→65, moins d'amplification capteur)
+  
+  SI LARSEN PERSISTE APRÈS TEST:
+    1. MIC Setting: 8 cm → 10 cm (éloigne encore plus)
+    2. MIC Level: 65 → 55 (réduit davantage)
+    3. Preamp Volume: 90 → 85 (boost coloration moins agressif)
+  
+  SI LARSEN DISPARU = Configuration stable ! ✅
+
 ═══════════════════════════════════════════════════════════════════════════════
 BREACH (UA4) vs DANGLE (UA1) - SUR BASSKICK
 ═══════════════════════════════════════════════════════════════════════════════
