@@ -176,64 +176,53 @@ Low  1kHz 2.5k High
 GRIFFE: Boost médium-bas (+4dB @1kHz) + Low léger (+2dB) = corps chaud via AMG, aigus neutres
 ```
 
-### UA3: DARKGLASS
+### UA3: B7K-LOUD
 
-- **Fonction:** Transparent technique, agressif mais clair (Darkglass-like)
-- **Drive:** 8 (optimisé Basskick)
-- **Key Settings:** Preamp/SP.SIM: ON (Ampeg coloration), Sustain 70
-- ✅ **Note:** Clarité VF-1 + texture Big Muff = grain vintage transparent
-- ⚙️ **Si sonne plus faible en live:** ajuster Master 80 → 82-85 ou Preamp Volume ↑ (cf. CORRECTION-LIVE-BASSKICK.txt)
-
-| Paramètre                | Basskick | Notes                        |
-|--------------------------|----------|------------------------------|
-| **COMPRESSOR**           |          |                              |
-| Sustain                  | 70       | Stable, agressif/technique   |
-| Attack                   | 25       | Stable                       |
-| ENH Freq                 | 0        | Stable                       |
-| ENH Level                | 10       | Subtil                       |
-| Level                    | 90       | Stable                       |
-| **OCTAVE**               |          |                              |
-| Oct Level                | 0        | OFF, stable                  |
-| Dir Level                | 100      | Stable                       |
-| **DISTORTION (Bass OD)** |          |                              |
-| Type                     | Bass OD  | Stable                       |
-| Drive                    | 8        | Transparent                  |
-| Bass                     | +10      | Stable                       |
-| Treble                   | +10      | Stable                       |
-| Fx Level                 | 45       | Stable, réduit pour Larsen   |
-| Dir Level                | 100      | Stable                       |
-| **4BAND EQ**             |          |                              |
-| Low EQ                   | +6dB     | Aligné B7K VF-1              |
-| High EQ                  | +8dB     | Aligné B7K VF-1              |
-| Level                    | +2dB     | Stable                       |
-| Low-mid F                | 630 Hz   | Stable                       |
-| Low-mid Q                | 1.0      | Stable                       |
-| Low-mid EQ               | -2dB     | Coupe bouillie               |
-| Hi-mid F                 | 2.5 kHz  | Stable                       |
-| Hi-mid Q                 | 2.0      | Stable                       |
-| Hi-mid EQ                | -2dB     | Coupe médiums hauts/guitare  |
-| **PREAMP/SP.SIM**        | ON       | Stable                       |
-| Type                     | Ampeg    | Couleur vintage              |
-| Volume                   | 50       | Agressif, testé              |
-| Bass                     | +25      | Stable                       |
-| Middle                   | -5       | Stable                       |
-| Treble                   | +5       | Stable                       |
-| Master                   | 70       | Stable                       |
-| Bright                   | OFF      | Pas de boost aigus extrême   |
-| Gain                     | High     | Saturation présente          |
-| **PREAMP MIC SETTINGS**  |          |                              |
-| MIC Setting              | 10 cm    | Anti-Larsen, distance        |
-| MIC Level                | 65       | Anti-Larsen, testé           |
-| DIR Level                | 50       | Anti-Larsen, testé           |
-| **NOISE SUPPRESSOR**     |          |                              |
-| Threshold                | 100      | Coupe parasites              |
-| Release                  | 10       | Stable                       |
-| **DELAY**                | OFF      | Stable                       |
-| **MOD**                  | OFF      | Stable                       |
-| **MASTER**               |          |                              |
-| Master Level             | 90       | Stable                       |
-| Foot Level               | 100      | Stable                       |
-| BPM                      | 120      | Stable                       |
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | OFF       |       |
+| **DISTORTION**           | ON        |       |
+| Type                     | Bass OD   |       |
+| Drive                    | 4         |       |
+| Bass                     | +10       |       |
+| Treble                   | 0dB       |       |
+| Fx Level                 | 5         |       |
+| Dir Level                | 65        |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | +4dB      |       |
+| High EQ                  | +4dB      |       |
+| Level                    | 0dB       |       |
+| Low-mid F                | 500 Hz    |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +6dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | -2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 65        |       |
+| Bass                     | +30       |       |
+| Middle                   | +55       |       |
+| Treble                   | +20       |       |
+| Master                   | 90        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | ON        |       |
+| Threshold                | 90        |       |
+| Release                  | 30        |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 90        |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
 
 **Signature sonore:** Transparent agressif. Préamp Ampeg = couleur vintage distincte. Clé technique.
 
