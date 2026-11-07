@@ -129,7 +129,7 @@ CONSTATS:
 PARAMÈTRES À NE JAMAIS TOUCHER (même en affinage)
 ═══════════════════════════════════════════════════════════════════════════════
 
-✓ Big Muff: Volume 14h, Tone 13-14h, Sustain 22-23h, NORM (immutable)
+✓ Big Muff: Volume 14h, Tone 21h, Sustain 21h, DRY (immutable)
 ✓ VF-1 Input: -20dB (signal actif)
 ✓ Drive Dangle (UA6): 0 = Big Muff seule saturation
 ✓ Preamp Type (UA8): Ampeg (couleur fixture)

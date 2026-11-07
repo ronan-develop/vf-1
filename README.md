@@ -353,8 +353,8 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **VF-1 Presets**       | Équilibrés Basskick       | Drive: 50, 8, 16, **0** (Dangle réduit)     |
 | **Big Muff Position**  | POST-VF-1 (après)         | Colore le signal finalisé                   |
 | **Big Muff Volume**    | 14h                       | Optimal pour signal actif                   |
-| **Big Muff Tone**      | 13-14h                    | Brillant, transparent                       |
-| **Big Muff Sustain**   | 22-23h                    | Maximum saturation                          |
+| **Big Muff Tone**      | 21h                       | Brillant, transparent                       |
+| **Big Muff Sustain**   | 21h                       | Sustain modéré                              |
 | **Connexion Basskick** | Input mono                | Via EFFECT OUT Muff                         |
 | **Pedalboard**         | Roland FC-200             | Switching presets VF-1                      |
 
@@ -380,7 +380,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **4**      | Djent      | -     | Basskick 515W haute-fi |
 | **5**      | Dangle     | 0     | Basskick 515W haute-fi |
 
-**Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM
+**Big Muff:** Volume 14h, Tone 21h, Sustain 21h, DRY
 
 ---
 
@@ -396,7 +396,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **UA4** | Breach     | *Contenu dans README section 3* |
 | **UA5** | Djent      | *Contenu dans README section 3* |
 
-**Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM
+**Big Muff:** Volume 14h, Tone 21h, Sustain 21h, DRY
 
 | UA       | Preset         | Fichier                                            |
 |----------|----------------|----------------------------------------------------|
@@ -406,7 +406,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **UA9**  | Breach 10W     | [UA9-Breach-10W.txt](UA9-Breach-10W.txt)           |
 | **UA10** | Punchycore 10W | [UA10-Punchycore-10W.txt](UA10-Punchycore-10W.txt) |
 
-**Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM (même réglages)
+**Big Muff:** Volume 14h, Tone 21h, Sustain 21h, DRY (même réglages)
 
 ---
 

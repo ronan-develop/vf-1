@@ -20,13 +20,13 @@ Pédalier: Roland FC-200 (connecté en MIDI IN au VF-1)
 ⚙️  Volume Potentiometer: 14h
    → Compense signal actif Ibanez, grain optimal
 
-⚙️  Tone Potentiometer: 13-14h
+⚙️  Tone Potentiometer: 21h
    → Brillant/clair, laisse passer les hautes fréquences
    
-⚙️  Sustain Potentiometer: 22-23h
+⚙️  Sustain Potentiometer: 21h
    → MAXIMUM saturation
    
-⚙️  Switch Position: NORM
+⚙️  Switch Position: DRY
    → Mode standard (pas Turbo), grain contrôlé
 
 ✅ CES RÉGLAGES NE CHANGENT JAMAIS (brancher et oublier)
@@ -107,7 +107,7 @@ FC-200 switche presets en temps réel.
   ↓
 VF-1 presets avec réglages définis
   ↓
-Big Muff déjà ON (réglages fixes 13-14h tone, 22-23h sustain)
+Big Muff déjà ON (réglages fixes 21h tone, 21h sustain, DRY)
   ↓
 Drive adapté + Big Muff = son final cohérent
   ↓
