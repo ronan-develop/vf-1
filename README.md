@@ -62,12 +62,6 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 
 ### 🎸 UA1: DANGLE
 
-- **Fonction:** Groovy/subtile clean (brillance, chorus léger)
-- **Drive:** 0 (réduit de 2 original → Big Muff remplace la saturation)
-- **Key Settings:** Chorus: ON (Mode Mono, Rate 10, Depth 30), Sustain: 60
-- ✅ **Note:** Chorus espacé + **Big Muff = seule saturation** = brillant subtil sans excès
-- ⚙️ **Référence live:** Dangle = son de base, tous les autres se comparent à celui-ci
-
 | Paramètre                | Basskick | Notes                     |
 |--------------------------|----------|---------------------------|
 | **COMPRESSOR**           |          |                           |
