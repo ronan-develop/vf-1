@@ -160,20 +160,20 @@ GRIFFE: Brillant aigus massif (+10dB 12kHz) / Bass+Hi-mid boost = Groovy sparkle
 | Foot Level               | 100       |                           |
 | BPM                      | 120       |                           |
 
-**Signature sonore:** Breakdown ultra-lourd avec sub dominant. Cristallin + poids extrême.
+**Signature sonore:** Préamp AMG chaud (Bass +25, Middle +35, Treble +45), médium-bas boosté (+4dB @1kHz), aigus neutres. Pas de compression/octave/distorsion : le préamp fait tout le travail.
 
 **🎛️ Visualisation EQ B7K VF-1 (Basskick):**
 
 ```ascii
-███        ███                 ███              
-███        ███                 ███              
-███        ███                 ███              
-███   ███  ███      ███   ███  ███   ███       
-███   ███  ███  ███ ███   ███  ███   ███   ███
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-100  300   400  2.5k 4k   6k   10k   12k
+          ███
+          ███
+███       ███
+███   ███ ███   ███
+━━━━━━━━━━━━━━━━━━━━
+Low  1kHz 2.5k High
++2dB +4dB 0dB  0dB
 
-GRIFFE: Creux BRUTAL à 400Hz (-4dB) + Grave/Mid dominant = Sous-basse massive  
+GRIFFE: Boost médium-bas (+4dB @1kHz) + Low léger (+2dB) = corps chaud via AMG, aigus neutres
 ```
 
 ### UA3: DARKGLASS
