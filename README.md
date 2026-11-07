@@ -120,47 +120,45 @@ GRIFFE: Brillant aigus massif (+10dB 12kHz) / Bass+Hi-mid boost = Groovy sparkle
 
 ### 🎸 UA2: B7K VF-1
 
-| Paramètre                | Basskick | Notes                     |
-|--------------------------|----------|---------------------------|
-| **COMPRESSOR**           |          |                           |
-| Sustain                  | 40       | Court, attaque percussive |
-| Attack                   | 70       | Lente, laisse transitoire |
-| ENH Freq                 | 0        | Stable                    |
-| ENH Level                | 30       | Boost grain               |
-| Level                    | 100      | Maximal                   |
-| **OCTAVE**               |          |                           |
-| Oct Level                | 90       | Sub dominant              |
-| Dir Level                | 45       | Stable, octave dominant   |
-| **DISTORTION (Bass OD)** |          |                           |
-| Type                     | Bass OD  | Stable                    |
-| Drive                    | 50       | Agressif                  |
-| Bass                     | +15      | Boost basses lourd        |
-| Treble                   | -5       | Coupe aigus, son sombre   |
-| Fx Level                 | 20       | Signal direct dominant    |
-| Dir Level                | 100      | Stable                    |
-| **4BAND EQ**             |          |                           |
-| Low EQ                   | +4dB     | Stable                    |
-| High EQ                  | -2dB     | Coupe légère aigus        |
-| Level                    | +12dB    | Ultra-grave dominant      |
-| Low-mid F                | 400 Hz   | Stable, corps grave       |
-| Low-mid Q                | 1.0      | Stable                    |
-| Low-mid EQ               | -4dB     | Coupe mud bas-médium      |
-| Hi-mid F                 | 2.5 kHz  | Stable                    |
-| Hi-mid Q                 | 2.0      | Stable                    |
-| Hi-mid EQ                | +4dB     | Boost présence/mix        |
-| **PREAMP**               | OFF      | Stable                    |
-| **NOISE SUPPRESSOR**     |          |                           |
-| Threshold                | 100      | Coupure maximale          |
-| Release                  | 13       | Relâche rapide            |
-| **DELAY**                | OFF      | Stable                    |
-| **MOD**                  | OFF      | Stable                    |
-| **REVERB**               | OFF      | Stable                    |
-| **MASTER**               |          |                           |
-| Master Level             | 100      | Maximal                   |
-| Foot Level               | 100      | Stable                    |
-| BPM                      | 120      | Stable                    |
-| Foot Level               | 100      | Stable                    |
-| BPM                      | 120      | Stable                    |
+| Paramètre                | Basskick  | Notes                     |
+|--------------------------|-----------|---------------------------|
+| **COMPRESSOR**           | OFF       |                           |
+| **OCTAVE**               | OFF       |                           |
+| **DISTORTION**           | OFF       |                           |
+| **4BAND EQ**             |           |                           |
+| Low EQ                   | +2dB      |                           |
+| High EQ                  | 0dB       |                           |
+| Level                    | 0dB       |                           |
+| Low-mid F                | 1.0 kHz   |                           |
+| Low-mid Q                | 2.0       |                           |
+| Low-mid EQ               | +4dB      |                           |
+| Hi-mid F                 | 2.5 kHz   |                           |
+| Hi-mid Q                 | 2.0       |                           |
+| Hi-mid EQ                | 0dB       |                           |
+| **POSITION**             | EQ→AMP→NS | Ordre de routage          |
+| **PREAMP/SP.SIM**        | ON        |                           |
+| Type                     | AMG       |                           |
+| Volume                   | 80        |                           |
+| Bass                     | +25       |                           |
+| Middle                   | +35       |                           |
+| Treble                   | +45       |                           |
+| Master                   | 80        |                           |
+| Bright                   | OFF       |                           |
+| Gain                     | Mid       |                           |
+| **PREAMP MIC SETTINGS**  |           |                           |
+| MIC Setting              | Center    |                           |
+| MIC Level                | 75        |                           |
+| DIR Level                | 0         |                           |
+| **NOISE SUPPRESSOR**     | ON        |                           |
+| Threshold                | 75        |                           |
+| Release                  | 15        |                           |
+| **DELAY**                | OFF       |                           |
+| **MOD**                  | OFF       |                           |
+| **REVERB**               | OFF       |                           |
+| **MASTER**               |           |                           |
+| Master Level             | 100       |                           |
+| Foot Level               | 100       |                           |
+| BPM                      | 120       |                           |
 
 **Signature sonore:** Breakdown ultra-lourd avec sub dominant. Cristallin + poids extrême.
 
