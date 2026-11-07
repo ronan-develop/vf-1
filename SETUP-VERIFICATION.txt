@@ -42,7 +42,7 @@ Stratégie: drives originaux conservés + Big Muff ajoute la texture analogique.
 Seul Dangle passe Drive à 0 (Big Muff remplace entièrement la saturation).
 
 ╔═════════════════════════════════════════════════════════════════════════╗
-║ PRESET 1: BEATDOWN                                                      ║
+║ PRESET 1: B7K VF-1                                                      ║
 ╚═════════════════════════════════════════════════════════════════════════╝
 Fonction: Heavy breakdown, lourd et massif (contexte hardcore)
 Drive: 50 (original conservé) + Big Muff texture = agressivité contrôlée
@@ -91,7 +91,7 @@ Sustain: 60 (modéré)
 
 Preset      | Drive VF-1 | Stratégie
 ──────────  | ───────── | ─────────────────────────────────────
-Beatdown    | 50        | Drive original + Big Muff texture
+B7K VF-1    | 50        | Drive original + Big Muff texture
 Darkglass   | 18        | Drive original + Big Muff texture
 Breach      | 15        | Drive original + Big Muff texture
 Punchycore  | 6         | Drive original + Big Muff texture

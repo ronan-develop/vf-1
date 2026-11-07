@@ -8,14 +8,14 @@ Paramètres de compensation si différences perçues sur Basskick.
 Référence = Dangle (UA1) = son basique/clair
 
 ═══════════════════════════════════════════════════════════════════════════════
-BEATDOWN (UA2) vs DANGLE (UA1) - SUR BASSKICK
+B7K VF-1 (UA2) vs DANGLE (UA1) - SUR BASSKICK
 ═══════════════════════════════════════════════════════════════════════════════
 
-DIFFÉRENCE ATTENDUE: Beatdown = plus lourd, Master 100 (vs 90 Dangle)
+DIFFÉRENCE ATTENDUE: B7K VF-1 = plus lourd, Master 100 (vs 90 Dangle)
 
 SI SONNE TROP FORT / SAUT VOLUME PERCEPTIBLE:
   → Master: 100 → 95-98 (test réduction légère)
-  → Note: "Beatdown Master → 95" pour suite
+  → Note: "B7K VF-1 Master → 95" pour suite
 
 SI SOUS PAS ASSEZ LOURD / SON TROP SEC:
   → Octave Oct Level: 90 (vérifier, déjà haut) → test 95
@@ -29,7 +29,7 @@ SI SON BOUEUX / CONFLIT MID-BASS:
   → 4BAND EQ Low-mid: -4dB → -5-6dB (creuse plus les problèmes mids-bas)
 
 PARAMÈTRE CLÉS À NE PAS TOUCHER:
-  ✓ Drive: 50 (agressivité Beatdown)
+  ✓ Drive: 50 (agressivité B7K VF-1)
   ✓ Compressor Sustain: 40 (punch court)
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -151,7 +151,7 @@ WORKFLOW TEST BASSKICK RAPIDE
   → Joue Dangle seul, écoute sans regarder
 
 ÉTAPE 2 - COMPARE CHAQUE PRESET :
-  → Switch Dangle → Beatdown
+  → Switch Dangle → B7K VF-1
     Observe: "Plus lourd? Plus fort? Son serré ou mou?"
   → Switch Dangle → Darkglass
     Observe: "Moins fort? Plus clair? Trop étouffé?"
@@ -162,7 +162,7 @@ WORKFLOW TEST BASSKICK RAPIDE
 
 ÉTAPE 3 - IDENTIFIE PRIORITÉS (5 min):
   → Noter rapidement ce qui manque
-  → Exemple: "Beatdown: Master légèrement bas", "Darkglass: OK", "Breach: Hi-mid manque", "Punchycore: OK"
+  → Exemple: "B7K VF-1: Master légèrement bas", "Darkglass: OK", "Breach: Hi-mid manque", "Punchycore: OK"
 
 ÉTAPE 4 - PREMIÈRE CORRECTION (10 min):
   → Ajuster UNIQUEMENT le paramètre prioritaire per preset

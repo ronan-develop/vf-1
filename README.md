@@ -55,7 +55,7 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 
 **Stratégie d'équilibre:**
 
-- **Beatdown, Darkglass, Breach:** Drive optimisé pour Basskick (50, 8, 16) + Big Muff texture = agressivité contrôlée
+- **B7K VF-1, Darkglass, Breach:** Drive optimisé pour Basskick (50, 8, 16) + Big Muff texture = agressivité contrôlée
 - **Dangle:** Drive **réduit à 0** = Big Muff remplace la saturation, son brillant et subtil sans excès
 
 **Résultat:** Aucun preset trop "dégueulasse", Dangle pas sur-saturé, Big Muff colore tout sans déborder.
@@ -164,7 +164,7 @@ GRIFFE: Brillant aigus massif (+10dB 12kHz) / Bass+Hi-mid boost = Groovy sparkle
 
 **Signature sonore:** Breakdown ultra-lourd avec sub dominant. Cristallin + poids extrême.
 
-**🎛️ Visualisation EQ BEATDOWN (Basskick):**
+**🎛️ Visualisation EQ B7K VF-1 (Basskick):**
 
 ```ascii
 ███        ███                 ███              
@@ -205,8 +205,8 @@ GRIFFE: Creux BRUTAL à 400Hz (-4dB) + Grave/Mid dominant = Sous-basse massive
 | Fx Level                 | 45       | Stable, réduit pour Larsen   |
 | Dir Level                | 100      | Stable                       |
 | **4BAND EQ**             |          |                              |
-| Low EQ                   | +6dB     | Aligné BEATDOWN              |
-| High EQ                  | +8dB     | Aligné BEATDOWN              |
+| Low EQ                   | +6dB     | Aligné B7K VF-1              |
+| High EQ                  | +8dB     | Aligné B7K VF-1              |
 | Level                    | +2dB     | Stable                       |
 | Low-mid F                | 630 Hz   | Stable                       |
 | Low-mid Q                | 1.0      | Stable                       |
@@ -299,7 +299,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **MOD**                  | OFF      | Stable                           |
 | **REVERB**               | OFF      | Stable                           |
 | **MASTER**               |          |                                  |
-| Master Level             | 100      | Aligné BEATDOWN                  |
+| Master Level             | 100      | Aligné B7K VF-1                  |
 | Foot Level               | 100      | Stable                           |
 | BPM                      | 120      | Stable                           |
 
@@ -345,7 +345,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 
 | Footswitch | Preset     | Drive | Config                 |
 |------------|------------|-------|------------------------|
-| **1**      | Beatdown   | 50    | Basskick 515W haute-fi |
+| **1**      | B7K VF-1   | 50    | Basskick 515W haute-fi |
 | **2**      | darkglass  | 18    | Basskick 515W haute-fi |
 | **3**      | Breach     | 15    | Basskick 515W haute-fi |
 | **4**      | Punchycore | 6     | Basskick 515W haute-fi |
@@ -362,7 +362,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | UA      | Preset     | Fichier                         |
 |---------|------------|---------------------------------|
 | **UA1** | Dangle     | *Contenu dans README section 3* |
-| **UA2** | Beatdown   | *Contenu dans README section 3* |
+| **UA2** | B7K VF-1   | *Contenu dans README section 3* |
 | **UA3** | Darkglass  | *Contenu dans README section 3* |
 | **UA4** | Breach     | *Contenu dans README section 3* |
 | **UA5** | Punchycore | *Contenu dans README section 3* |
@@ -372,7 +372,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | UA       | Preset         | Fichier                                            |
 |----------|----------------|----------------------------------------------------|
 | **UA6**  | Dangle 10W     | [UA6-Dangle-10W.txt](UA6-Dangle-10W.txt)           |
-| **UA7**  | Beatdown 10W   | [UA7-Beatdown-10W.txt](UA7-Beatdown-10W.txt)       |
+| **UA7**  | B7K VF-1 10W   | [UA7-B7K-VF-1-10W.txt](UA7-B7K-VF-1-10W.txt)       |
 | **UA8**  | Darkglass 10W  | [UA8-Darkglass-10W.txt](UA8-Darkglass-10W.txt)     |
 | **UA9**  | Breach 10W     | [UA9-Breach-10W.txt](UA9-Breach-10W.txt)           |
 | **UA10** | Punchycore 10W | [UA10-Punchycore-10W.txt](UA10-Punchycore-10W.txt) |
