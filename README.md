@@ -242,53 +242,55 @@ Foot level actif pour éviter larsen en live (préamp + Big Muff = gain élevé,
 GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent agressif  
 ```
 
-### UA4: BREACH
+### UA4: B7K-FAT
 
-- **Fonction:** Hardcore mélodique agressif (Raised Fist/Breach style) - Base lourde + clarté notes
-- **Drive:** 16 (optimisé Basskick)
-- **Key Settings:** Hi-mid EQ: +5dB (clé pour clarifier notes), Sustain: 50, Low EQ/Low-mid aligned DARKGLASS
-- ✅ **Note:** Base EQ cohérente avec DARKGLASS (graves+poids identiques) | Hi-mid +5dB différencie pour clarté
-- ⚙️ **Si manque de coupure guitare en live:** Hi-mid EQ +5dB → +6-7dB renforce clarté (cf. CORRECTION-LIVE-BASSKICK.txt)
-
-| Paramètre                | Basskick | Notes                            |
-|--------------------------|----------|----------------------------------|
-| **COMPRESSOR**           |          |                                  |
-| Sustain                  | 50       | Court, notes définies            |
-| Attack                   | 30       | Rapide, transitoire libre        |
-| ENH Freq                 | 0        | Stable                           |
-| ENH Level                | 15       | Subtil, grain                    |
-| Level                    | 92       | Stable                           |
-| **OCTAVE**               |          |                                  |
-| Oct Level                | 5        | Minimal, subtil                  |
-| Dir Level                | 100      | Stable                           |
-| **DISTORTION (Bass OD)** |          |                                  |
-| Type                     | Bass OD  | Stable                           |
-| Drive                    | 16       | Transparent                      |
-| Bass                     | +5       | Boost basses modéré              |
-| Treble                   | +5       | Brillance sans agressivité       |
-| Fx Level                 | 25       | Effet discret                    |
-| Dir Level                | 100      | Stable                           |
-| **4BAND EQ**             |          |                                  |
-| Low EQ                   | +6dB     | Aligné DARKGLASS                 |
-| High EQ                  | +8dB     | Aligné DARKGLASS                 |
-| Level                    | +6dB     | Boost présence                   |
-| Low-mid F                | 400 Hz   | Stable, médiums-bas              |
-| Low-mid Q                | 1.0      | Stable                           |
-| Low-mid EQ               | -2dB     | Aligné DARKGLASS, coupe bouillie |
-| Hi-mid F                 | 2.5 kHz  | Stable, CLÉ du preset            |
-| Hi-mid Q                 | 2.0      | Stable                           |
-| Hi-mid EQ                | +5dB     | ⭐ SIGNATURE coupe guitare       |
-| **PREAMP**               | OFF      | Stable                           |
-| **NOISE SUPPRESSOR**     |          |                                  |
-| Threshold                | 75       | Coupure modérée                  |
-| Release                  | 12       | Relâche rapide                   |
-| **DELAY**                | OFF      | Stable                           |
-| **MOD**                  | OFF      | Stable                           |
-| **REVERB**               | OFF      | Stable                           |
-| **MASTER**               |          |                                  |
-| Master Level             | 100      | Aligné B7K VF-1                  |
-| Foot Level               | 100      | Stable                           |
-| BPM                      | 120      | Stable                           |
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | ON        |       |
+| Oct Level                | 20        |       |
+| Dir Level                | 100       |       |
+| **DISTORTION**           | ON        |       |
+| Type                     | Bass OD   |       |
+| Drive                    | 2         |       |
+| Bass                     | +5        |       |
+| Treble                   | -5        |       |
+| Fx Level                 | 20        |       |
+| Dir Level                | 60        |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | +8dB      |       |
+| High EQ                  | +5dB      |       |
+| Level                    | 0dB       |       |
+| Low-mid F                | 500 Hz    |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +6dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | -2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 60        |       |
+| Bass                     | +25       |       |
+| Middle                   | +40       |       |
+| Treble                   | +20       |       |
+| Master                   | 90        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | ON        |       |
+| Threshold                | 90        |       |
+| Release                  | 30        |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 100       |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
 
 **Signature sonore:** Agressif mélodique. Hi-mid boostée = coupe guitare proprement. Raised Fist / Refused style.
 **🎛️ Visualisation EQ BREACH (Basskick):**
