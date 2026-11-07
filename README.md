@@ -344,6 +344,58 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | Foot Level               | 100       |       |
 | BPM                      | 120       |       |
 
+### UA6: B7K-LOUDER
+
+*Variante test de UA4 B7K-Fat, sauvegardée sur un slot séparé pour ne pas perdre UA4 avant test en situation réelle. Reprend tout UA4 à l'identique sauf les 3 valeurs ci-dessous (compensation du bas coupé par le Big Muff en DRY).*
+
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | ON        |       |
+| Oct Level                | 20        |       |
+| Dir Level                | 100       |       |
+| **DISTORTION**           | ON        |       |
+| Type                     | Bass OD   |       |
+| Drive                    | 2         |       |
+| Bass                     | +5        |       |
+| Treble                   | -5        |       |
+| Fx Level                 | 20        |       |
+| Dir Level                | 60        |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | +10dB     | vs +8dB sur UA4       |
+| High EQ                  | +5dB      |       |
+| Level                    | +2dB      | vs 0dB sur UA4        |
+| Low-mid F                | 500 Hz    |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +6dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | -2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 60        |       |
+| Bass                     | +30       | vs +25 sur UA4        |
+| Middle                   | +40       |       |
+| Treble                   | +20       |       |
+| Master                   | 90        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | ON        |       |
+| Threshold                | 90        |       |
+| Release                  | 30        |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 100       |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
+
 ## 4. Structure Finale - Confirmée ✅
 
 | Élément                | Config                    | Détail                                      |
