@@ -304,6 +304,46 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+### UA5: DJENT
+
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | OFF       |       |
+| **DISTORTION**           | OFF       |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | 0dB       |       |
+| High EQ                  | +4dB      |       |
+| Level                    | 0dB       |       |
+| Low-mid F                | 1.0 kHz   |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +4dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | +2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 80        |       |
+| Bass                     | +25       |       |
+| Middle                   | +10       |       |
+| Treble                   | +45       |       |
+| Master                   | 95        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | OFF       |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 100       |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
+
 ## 4. Structure Finale - Confirmée ✅
 
 | Élément                | Config                    | Détail                                      |
@@ -337,7 +377,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **1**      | B7K VF-1   | 50    | Basskick 515W haute-fi |
 | **2**      | darkglass  | 18    | Basskick 515W haute-fi |
 | **3**      | Breach     | 15    | Basskick 515W haute-fi |
-| **4**      | Punchycore | 6     | Basskick 515W haute-fi |
+| **4**      | Djent      | -     | Basskick 515W haute-fi |
 | **5**      | Dangle     | 0     | Basskick 515W haute-fi |
 
 **Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM
@@ -354,7 +394,7 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **UA2** | B7K VF-1   | *Contenu dans README section 3* |
 | **UA3** | Darkglass  | *Contenu dans README section 3* |
 | **UA4** | Breach     | *Contenu dans README section 3* |
-| **UA5** | Punchycore | *Contenu dans README section 3* |
+| **UA5** | Djent      | *Contenu dans README section 3* |
 
 **Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM
 
