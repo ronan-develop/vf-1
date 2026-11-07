@@ -26,7 +26,7 @@ NOTES D'AFFINAGE À LA MAISON:
   - Si manque punch attaque → Compressor Attack 40 → 35
 
 ═══════════════════════════════════════════════════════════════════════════════
-UA7: BEATDOWN 10W (Référence: UA2 Basskick)
+UA7: B7K VF-1 10W (Référence: UA2 Basskick)
 ═══════════════════════════════════════════════════════════════════════════════
 
 RÉDUCTIONS vs BASSKICK (UA2: Master 100):
@@ -113,14 +113,14 @@ TABLEAU RÉSUMÉ - 10W vs BASSKICK
 | Preset    | Master (10W) | Drive (10W) | Réduction Drive | Octave (10W) | Notes       |
 |-----------|--------------|-------------|-----------------|--------------|-------------|
 | Dangle    | 75 (-15)     | 0 (=)       | 0%              | 15 (-10)     | Chorus ON   |
-| Beatdown  | 80 (-20)     | 45 (-5)     | -10%            | 60 (-30)     | Sub lourd   |
+| B7K VF-1  | 80 (-20)     | 45 (-5)     | -10%            | 60 (-30)     | Sub lourd   |
 | Darkglass | 75 (-5)      | 14 (-4)     | -22%            | OFF (=)      | Preamp ON   |
 | Breach    | 82 (-6)      | 12 (-3)     | -20%            | 3 (-2)       | Hi-mid +5dB |
 | Punchycore| 85 (-7)      | 4 (-2)      | -33%            | 5 (-3)       | Lo-mid +6dB |
 
 CONSTATS:
   ✓ Master: -6% à -20% (petit ampli = moins de headroom)
-  ✓ Drive: réductions non-linéaires (Punchycore -33% = percussif, Beatdown -10% = agressif)
+  ✓ Drive: réductions non-linéaires (Punchycore -33% = percussif, B7K VF-1 -10% = agressif)
   ✓ Octave: -30-40% universel (petit ampli = pas de sub lourd)
   ✓ Signature EQs (Hi-mid Breach, Lo-mid Punchycore): PRÉSERVÉS identiquement
 
@@ -129,7 +129,7 @@ CONSTATS:
 PARAMÈTRES À NE JAMAIS TOUCHER (même en affinage)
 ═══════════════════════════════════════════════════════════════════════════════
 
-✓ Big Muff: Volume 14h, Tone 13-14h, Sustain 22-23h, NORM (immutable)
+✓ Big Muff: Volume 14h, Tone 21h, Sustain 21h, DRY (immutable)
 ✓ VF-1 Input: -20dB (signal actif)
 ✓ Drive Dangle (UA6): 0 = Big Muff seule saturation
 ✓ Preamp Type (UA8): Ampeg (couleur fixture)

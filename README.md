@@ -55,18 +55,12 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 
 **Stratégie d'équilibre:**
 
-- **Beatdown, Darkglass, Breach:** Drive optimisé pour Basskick (50, 8, 16) + Big Muff texture = agressivité contrôlée
+- **B7K VF-1, Darkglass, Breach:** Drive optimisé pour Basskick (50, 8, 16) + Big Muff texture = agressivité contrôlée
 - **Dangle:** Drive **réduit à 0** = Big Muff remplace la saturation, son brillant et subtil sans excès
 
 **Résultat:** Aucun preset trop "dégueulasse", Dangle pas sur-saturé, Big Muff colore tout sans déborder.
 
 ### 🎸 UA1: DANGLE
-
-- **Fonction:** Groovy/subtile clean (brillance, chorus léger)
-- **Drive:** 0 (réduit de 2 original → Big Muff remplace la saturation)
-- **Key Settings:** Chorus: ON (Mode Mono, Rate 10, Depth 30), Sustain: 60
-- ✅ **Note:** Chorus espacé + **Big Muff = seule saturation** = brillant subtil sans excès
-- ⚙️ **Référence live:** Dangle = son de base, tous les autres se comparent à celui-ci
 
 | Paramètre                | Basskick | Notes                     |
 |--------------------------|----------|---------------------------|
@@ -124,130 +118,111 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 GRIFFE: Brillant aigus massif (+10dB 12kHz) / Bass+Hi-mid boost = Groovy sparkle  
 ```
 
-### 🎸 UA2: SUBWOOFER - BEATDOWN
+### 🎸 UA2: B7K VF-1
 
-- **Fonction:** Heavy breakdown, lourd et massif (contexte hardcore)
-- **Drive:** 50 (optimisé Basskick)
-- **Key Settings:** Oct Level: 90, Sustain compresseur: 40
-- ✅ **Note:** VF-1 travaille sur signal propre, Big Muff ajoute le grain final
-- ⚙️ **Si sonne trop fort en live:** ajuster Master 100 → 95-98 (cf. CORRECTION-LIVE-BASSKICK.txt)
+| Paramètre                | Basskick  | Notes                     |
+|--------------------------|-----------|---------------------------|
+| **COMPRESSOR**           | OFF       |                           |
+| **OCTAVE**               | OFF       |                           |
+| **DISTORTION**           | OFF       |                           |
+| **4BAND EQ**             |           |                           |
+| Low EQ                   | +2dB      |                           |
+| High EQ                  | 0dB       |                           |
+| Level                    | 0dB       |                           |
+| Low-mid F                | 1.0 kHz   |                           |
+| Low-mid Q                | 2.0       |                           |
+| Low-mid EQ               | +4dB      |                           |
+| Hi-mid F                 | 2.5 kHz   |                           |
+| Hi-mid Q                 | 2.0       |                           |
+| Hi-mid EQ                | 0dB       |                           |
+| **POSITION**             | EQ→AMP→NS | Ordre de routage          |
+| **PREAMP/SP.SIM**        | ON        |                           |
+| Type                     | AMG       |                           |
+| Volume                   | 80        |                           |
+| Bass                     | +25       |                           |
+| Middle                   | +35       |                           |
+| Treble                   | +45       |                           |
+| Master                   | 80        |                           |
+| Bright                   | OFF       |                           |
+| Gain                     | Mid       |                           |
+| **PREAMP MIC SETTINGS**  |           |                           |
+| MIC Setting              | Center    |                           |
+| MIC Level                | 75        |                           |
+| DIR Level                | 0         |                           |
+| **NOISE SUPPRESSOR**     | ON        |                           |
+| Threshold                | 75        |                           |
+| Release                  | 15        |                           |
+| **DELAY**                | OFF       |                           |
+| **MOD**                  | OFF       |                           |
+| **REVERB**               | OFF       |                           |
+| **MASTER**               |           |                           |
+| Master Level             | 100       |                           |
+| Foot Level               | 100       |                           |
+| BPM                      | 120       |                           |
 
-| Paramètre                | Basskick | Notes                     |
-|--------------------------|----------|---------------------------|
-| **COMPRESSOR**           |          |                           |
-| Sustain                  | 40       | Court, attaque percussive |
-| Attack                   | 70       | Lente, laisse transitoire |
-| ENH Freq                 | 0        | Stable                    |
-| ENH Level                | 30       | Boost grain               |
-| Level                    | 100      | Maximal                   |
-| **OCTAVE**               |          |                           |
-| Oct Level                | 90       | Sub dominant              |
-| Dir Level                | 45       | Stable, octave dominant   |
-| **DISTORTION (Bass OD)** |          |                           |
-| Type                     | Bass OD  | Stable                    |
-| Drive                    | 50       | Agressif                  |
-| Bass                     | +15      | Boost basses lourd        |
-| Treble                   | -5       | Coupe aigus, son sombre   |
-| Fx Level                 | 20       | Signal direct dominant    |
-| Dir Level                | 100      | Stable                    |
-| **4BAND EQ**             |          |                           |
-| Low EQ                   | +4dB     | Stable                    |
-| High EQ                  | -2dB     | Coupe légère aigus        |
-| Level                    | +12dB    | Ultra-grave dominant      |
-| Low-mid F                | 400 Hz   | Stable, corps grave       |
-| Low-mid Q                | 1.0      | Stable                    |
-| Low-mid EQ               | -4dB     | Coupe mud bas-médium      |
-| Hi-mid F                 | 2.5 kHz  | Stable                    |
-| Hi-mid Q                 | 2.0      | Stable                    |
-| Hi-mid EQ                | +4dB     | Boost présence/mix        |
-| **PREAMP**               | OFF      | Stable                    |
-| **NOISE SUPPRESSOR**     |          |                           |
-| Threshold                | 100      | Coupure maximale          |
-| Release                  | 13       | Relâche rapide            |
-| **DELAY**                | OFF      | Stable                    |
-| **MOD**                  | OFF      | Stable                    |
-| **REVERB**               | OFF      | Stable                    |
-| **MASTER**               |          |                           |
-| Master Level             | 100      | Maximal                   |
-| Foot Level               | 100      | Stable                    |
-| BPM                      | 120      | Stable                    |
-| Foot Level               | 100      | Stable                    |
-| BPM                      | 120      | Stable                    |
+**Signature sonore:** Préamp AMG chaud (Bass +25, Middle +35, Treble +45), médium-bas boosté (+4dB @1kHz), aigus neutres. Pas de compression/octave/distorsion : le préamp fait tout le travail.
 
-**Signature sonore:** Breakdown ultra-lourd avec sub dominant. Cristallin + poids extrême.
-
-**🎛️ Visualisation EQ BEATDOWN (Basskick):**
+**🎛️ Visualisation EQ B7K VF-1 (Basskick):**
 
 ```ascii
-███        ███                 ███              
-███        ███                 ███              
-███        ███                 ███              
-███   ███  ███      ███   ███  ███   ███       
-███   ███  ███  ███ ███   ███  ███   ███   ███
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-100  300   400  2.5k 4k   6k   10k   12k
+          ███
+          ███
+███       ███
+███   ███ ███   ███
+━━━━━━━━━━━━━━━━━━━━
+Low  1kHz 2.5k High
++2dB +4dB 0dB  0dB
 
-GRIFFE: Creux BRUTAL à 400Hz (-4dB) + Grave/Mid dominant = Sous-basse massive  
+GRIFFE: Boost médium-bas (+4dB @1kHz) + Low léger (+2dB) = corps chaud via AMG, aigus neutres
 ```
 
-### UA3: DARKGLASS
+### UA3: B7K-LOUD
 
-- **Fonction:** Transparent technique, agressif mais clair (Darkglass-like)
-- **Drive:** 8 (optimisé Basskick)
-- **Key Settings:** Preamp/SP.SIM: ON (Ampeg coloration), Sustain 70
-- ✅ **Note:** Clarité VF-1 + texture Big Muff = grain vintage transparent
-- ⚙️ **Si sonne plus faible en live:** ajuster Master 80 → 82-85 ou Preamp Volume ↑ (cf. CORRECTION-LIVE-BASSKICK.txt)
-
-| Paramètre                | Basskick | Notes                        |
-|--------------------------|----------|------------------------------|
-| **COMPRESSOR**           |          |                              |
-| Sustain                  | 70       | Stable, agressif/technique   |
-| Attack                   | 25       | Stable                       |
-| ENH Freq                 | 0        | Stable                       |
-| ENH Level                | 10       | Subtil                       |
-| Level                    | 90       | Stable                       |
-| **OCTAVE**               |          |                              |
-| Oct Level                | 0        | OFF, stable                  |
-| Dir Level                | 100      | Stable                       |
-| **DISTORTION (Bass OD)** |          |                              |
-| Type                     | Bass OD  | Stable                       |
-| Drive                    | 8        | Transparent                  |
-| Bass                     | +10      | Stable                       |
-| Treble                   | +10      | Stable                       |
-| Fx Level                 | 45       | Stable, réduit pour Larsen   |
-| Dir Level                | 100      | Stable                       |
-| **4BAND EQ**             |          |                              |
-| Low EQ                   | +6dB     | Aligné BEATDOWN              |
-| High EQ                  | +8dB     | Aligné BEATDOWN              |
-| Level                    | +2dB     | Stable                       |
-| Low-mid F                | 630 Hz   | Stable                       |
-| Low-mid Q                | 1.0      | Stable                       |
-| Low-mid EQ               | -2dB     | Coupe bouillie               |
-| Hi-mid F                 | 2.5 kHz  | Stable                       |
-| Hi-mid Q                 | 2.0      | Stable                       |
-| Hi-mid EQ                | -2dB     | Coupe médiums hauts/guitare  |
-| **PREAMP/SP.SIM**        | ON       | Stable                       |
-| Type                     | Ampeg    | Couleur vintage              |
-| Volume                   | 50       | Agressif, testé              |
-| Bass                     | +25      | Stable                       |
-| Middle                   | -5       | Stable                       |
-| Treble                   | +5       | Stable                       |
-| Master                   | 70       | Stable                       |
-| Bright                   | OFF      | Pas de boost aigus extrême   |
-| Gain                     | High     | Saturation présente          |
-| **PREAMP MIC SETTINGS**  |          |                              |
-| MIC Setting              | 10 cm    | Anti-Larsen, distance        |
-| MIC Level                | 65       | Anti-Larsen, testé           |
-| DIR Level                | 50       | Anti-Larsen, testé           |
-| **NOISE SUPPRESSOR**     |          |                              |
-| Threshold                | 100      | Coupe parasites              |
-| Release                  | 10       | Stable                       |
-| **DELAY**                | OFF      | Stable                       |
-| **MOD**                  | OFF      | Stable                       |
-| **MASTER**               |          |                              |
-| Master Level             | 90       | Stable                       |
-| Foot Level               | 100      | Stable                       |
-| BPM                      | 120      | Stable                       |
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | OFF       |       |
+| **DISTORTION**           | ON        |       |
+| Type                     | Bass OD   |       |
+| Drive                    | 4         |       |
+| Bass                     | +10       |       |
+| Treble                   | 0dB       |       |
+| Fx Level                 | 5         |       |
+| Dir Level                | 65        |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | +4dB      |       |
+| High EQ                  | +4dB      |       |
+| Level                    | 0dB       |       |
+| Low-mid F                | 500 Hz    |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +6dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | -2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 65        |       |
+| Bass                     | +30       |       |
+| Middle                   | +55       |       |
+| Treble                   | +20       |       |
+| Master                   | 90        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | ON        |       |
+| Threshold                | 90        |       |
+| Release                  | 30        |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 90        |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
 
 **Signature sonore:** Transparent agressif. Préamp Ampeg = couleur vintage distincte. Clé technique.
 
@@ -267,53 +242,55 @@ Foot level actif pour éviter larsen en live (préamp + Big Muff = gain élevé,
 GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent agressif  
 ```
 
-### UA4: BREACH
+### UA4: B7K-FAT
 
-- **Fonction:** Hardcore mélodique agressif (Raised Fist/Breach style) - Base lourde + clarté notes
-- **Drive:** 16 (optimisé Basskick)
-- **Key Settings:** Hi-mid EQ: +5dB (clé pour clarifier notes), Sustain: 50, Low EQ/Low-mid aligned DARKGLASS
-- ✅ **Note:** Base EQ cohérente avec DARKGLASS (graves+poids identiques) | Hi-mid +5dB différencie pour clarté
-- ⚙️ **Si manque de coupure guitare en live:** Hi-mid EQ +5dB → +6-7dB renforce clarté (cf. CORRECTION-LIVE-BASSKICK.txt)
-
-| Paramètre                | Basskick | Notes                            |
-|--------------------------|----------|----------------------------------|
-| **COMPRESSOR**           |          |                                  |
-| Sustain                  | 50       | Court, notes définies            |
-| Attack                   | 30       | Rapide, transitoire libre        |
-| ENH Freq                 | 0        | Stable                           |
-| ENH Level                | 15       | Subtil, grain                    |
-| Level                    | 92       | Stable                           |
-| **OCTAVE**               |          |                                  |
-| Oct Level                | 5        | Minimal, subtil                  |
-| Dir Level                | 100      | Stable                           |
-| **DISTORTION (Bass OD)** |          |                                  |
-| Type                     | Bass OD  | Stable                           |
-| Drive                    | 16       | Transparent                      |
-| Bass                     | +5       | Boost basses modéré              |
-| Treble                   | +5       | Brillance sans agressivité       |
-| Fx Level                 | 25       | Effet discret                    |
-| Dir Level                | 100      | Stable                           |
-| **4BAND EQ**             |          |                                  |
-| Low EQ                   | +6dB     | Aligné DARKGLASS                 |
-| High EQ                  | +8dB     | Aligné DARKGLASS                 |
-| Level                    | +6dB     | Boost présence                   |
-| Low-mid F                | 400 Hz   | Stable, médiums-bas              |
-| Low-mid Q                | 1.0      | Stable                           |
-| Low-mid EQ               | -2dB     | Aligné DARKGLASS, coupe bouillie |
-| Hi-mid F                 | 2.5 kHz  | Stable, CLÉ du preset            |
-| Hi-mid Q                 | 2.0      | Stable                           |
-| Hi-mid EQ                | +5dB     | ⭐ SIGNATURE coupe guitare       |
-| **PREAMP**               | OFF      | Stable                           |
-| **NOISE SUPPRESSOR**     |          |                                  |
-| Threshold                | 75       | Coupure modérée                  |
-| Release                  | 12       | Relâche rapide                   |
-| **DELAY**                | OFF      | Stable                           |
-| **MOD**                  | OFF      | Stable                           |
-| **REVERB**               | OFF      | Stable                           |
-| **MASTER**               |          |                                  |
-| Master Level             | 100      | Aligné BEATDOWN                  |
-| Foot Level               | 100      | Stable                           |
-| BPM                      | 120      | Stable                           |
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | ON        |       |
+| Oct Level                | 20        |       |
+| Dir Level                | 100       |       |
+| **DISTORTION**           | ON        |       |
+| Type                     | Bass OD   |       |
+| Drive                    | 2         |       |
+| Bass                     | +5        |       |
+| Treble                   | -5        |       |
+| Fx Level                 | 20        |       |
+| Dir Level                | 60        |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | +8dB      |       |
+| High EQ                  | +5dB      |       |
+| Level                    | 0dB       |       |
+| Low-mid F                | 500 Hz    |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +6dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | -2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 60        |       |
+| Bass                     | +25       |       |
+| Middle                   | +40       |       |
+| Treble                   | +20       |       |
+| Master                   | 90        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | ON        |       |
+| Threshold                | 90        |       |
+| Release                  | 30        |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 100       |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
 
 **Signature sonore:** Agressif mélodique. Hi-mid boostée = coupe guitare proprement. Raised Fist / Refused style.
 **🎛️ Visualisation EQ BREACH (Basskick):**
@@ -327,6 +304,98 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+### UA5: DJENT
+
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | OFF       |       |
+| **DISTORTION**           | OFF       |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | 0dB       |       |
+| High EQ                  | +4dB      |       |
+| Level                    | 0dB       |       |
+| Low-mid F                | 1.0 kHz   |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +4dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | +2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 80        |       |
+| Bass                     | +25       |       |
+| Middle                   | +10       |       |
+| Treble                   | +45       |       |
+| Master                   | 95        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | OFF       |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 100       |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
+
+### UA6: B7K-LOUDER
+
+*Variante test de UA4 B7K-Fat, sauvegardée sur un slot séparé pour ne pas perdre UA4 avant test en situation réelle. Reprend tout UA4 à l'identique sauf les 3 valeurs ci-dessous (compensation du bas coupé par le Big Muff en DRY).*
+
+| Paramètre                | Basskick  | Notes |
+|--------------------------|-----------|-------|
+| **COMPRESSOR**           | OFF       |       |
+| **OCTAVE**               | ON        |       |
+| Oct Level                | 20        |       |
+| Dir Level                | 100       |       |
+| **DISTORTION**           | ON        |       |
+| Type                     | Bass OD   |       |
+| Drive                    | 2         |       |
+| Bass                     | +5        |       |
+| Treble                   | -5        |       |
+| Fx Level                 | 20        |       |
+| Dir Level                | 60        |       |
+| **4BAND EQ**             | ON        |       |
+| Low EQ                   | +10dB     | vs +8dB sur UA4       |
+| High EQ                  | +5dB      |       |
+| Level                    | +2dB      | vs 0dB sur UA4        |
+| Low-mid F                | 500 Hz    |       |
+| Low-mid Q                | 1.0       |       |
+| Low-mid EQ               | +6dB      |       |
+| Hi-mid F                 | 2.5 kHz   |       |
+| Hi-mid Q                 | 2.0       |       |
+| Hi-mid EQ                | -2dB      |       |
+| **POSITION**             | EQ→AMP→NS |       |
+| **PREAMP/SP.SIM**        | ON        |       |
+| Type                     | AMG       |       |
+| Volume                   | 60        |       |
+| Bass                     | +30       | vs +25 sur UA4        |
+| Middle                   | +40       |       |
+| Treble                   | +20       |       |
+| Master                   | 90        |       |
+| Bright                   | OFF       |       |
+| Gain                     | Mid       |       |
+| **PREAMP MIC SETTINGS**  |           |       |
+| MIC Setting              | Center    |       |
+| MIC Level                | 75        |       |
+| DIR Level                | 0         |       |
+| **NOISE SUPPRESSOR**     | ON        |       |
+| Threshold                | 90        |       |
+| Release                  | 30        |       |
+| **DELAY**                | OFF       |       |
+| **MOD**                  | OFF       |       |
+| **REVERB**               | OFF       |       |
+| **MASTER**               |           |       |
+| Master Level             | 100       |       |
+| Foot Level               | 100       |       |
+| BPM                      | 120       |       |
+
 ## 4. Structure Finale - Confirmée ✅
 
 | Élément                | Config                    | Détail                                      |
@@ -336,60 +405,14 @@ GRIFFE: Coupe Mids (-2dB 630Hz et 2.5kHz) + Aigus montant (+8dB) = Transparent a
 | **VF-1 Presets**       | Équilibrés Basskick       | Drive: 50, 8, 16, **0** (Dangle réduit)     |
 | **Big Muff Position**  | POST-VF-1 (après)         | Colore le signal finalisé                   |
 | **Big Muff Volume**    | 14h                       | Optimal pour signal actif                   |
-| **Big Muff Tone**      | 13-14h                    | Brillant, transparent                       |
-| **Big Muff Sustain**   | 22-23h                    | Maximum saturation                          |
+| **Big Muff Tone**      | 21h                       | Brillant, transparent                       |
+| **Big Muff Sustain**   | 21h                       | Sustain modéré                              |
 | **Connexion Basskick** | Input mono                | Via EFFECT OUT Muff                         |
 | **Pedalboard**         | Roland FC-200             | Switching presets VF-1                      |
 
 ✅ **Presets ORIGINAUX (pas de versions -Muff nécessaires)**
 
 ✅ **Zéro conflit double-saturation (Big Muff en post)**
-
----
-
-## � 4b. Structure FC-200 & Mémoire VF-1
-
-**Roland FC-200** = 10 footswitches + navigation
-
-**Organisation proposée (3 banques de 5 presets):**
-
-### BANQUE 1: Basskick 515W (UA1-UA5)
-
-| Footswitch | Preset     | Drive | Config                 |
-|------------|------------|-------|------------------------|
-| **1**      | Beatdown   | 50    | Basskick 515W haute-fi |
-| **2**      | darkglass  | 18    | Basskick 515W haute-fi |
-| **3**      | Breach     | 15    | Basskick 515W haute-fi |
-| **4**      | Punchycore | 6     | Basskick 515W haute-fi |
-| **5**      | Dangle     | 0     | Basskick 515W haute-fi |
-
-**Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM
-
----
-
-## 📁 Fichiers Presets
-
-### 🎸 BANQUE 1: BASSKICK 515W (UA1-UA5)
-
-| UA      | Preset     | Fichier                         |
-|---------|------------|---------------------------------|
-| **UA1** | Dangle     | *Contenu dans README section 3* |
-| **UA2** | Beatdown   | *Contenu dans README section 3* |
-| **UA3** | Darkglass  | *Contenu dans README section 3* |
-| **UA4** | Breach     | *Contenu dans README section 3* |
-| **UA5** | Punchycore | *Contenu dans README section 3* |
-
-**Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM
-
-| UA       | Preset         | Fichier                                            |
-|----------|----------------|----------------------------------------------------|
-| **UA6**  | Dangle 10W     | [UA6-Dangle-10W.txt](UA6-Dangle-10W.txt)           |
-| **UA7**  | Beatdown 10W   | [UA7-Beatdown-10W.txt](UA7-Beatdown-10W.txt)       |
-| **UA8**  | Darkglass 10W  | [UA8-Darkglass-10W.txt](UA8-Darkglass-10W.txt)     |
-| **UA9**  | Breach 10W     | [UA9-Breach-10W.txt](UA9-Breach-10W.txt)           |
-| **UA10** | Punchycore 10W | [UA10-Punchycore-10W.txt](UA10-Punchycore-10W.txt) |
-
-**Big Muff:** Volume 14h, Tone 13-14h, Sustain 22-23h, NORM (même réglages)
 
 ---
 
