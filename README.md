@@ -118,13 +118,7 @@ H&K Basskick 515 4Ω (Input) + Cabinet 300W 8Ω (série)
 GRIFFE: Brillant aigus massif (+10dB 12kHz) / Bass+Hi-mid boost = Groovy sparkle  
 ```
 
-### 🎸 UA2: SUBWOOFER - BEATDOWN
-
-- **Fonction:** Heavy breakdown, lourd et massif (contexte hardcore)
-- **Drive:** 50 (optimisé Basskick)
-- **Key Settings:** Oct Level: 90, Sustain compresseur: 40
-- ✅ **Note:** VF-1 travaille sur signal propre, Big Muff ajoute le grain final
-- ⚙️ **Si sonne trop fort en live:** ajuster Master 100 → 95-98 (cf. CORRECTION-LIVE-BASSKICK.txt)
+### 🎸 UA2: B7K VF-1
 
 | Paramètre                | Basskick | Notes                     |
 |--------------------------|----------|---------------------------|
